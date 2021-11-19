@@ -1,0 +1,2875 @@
+{
+    "query": "臺南市政府",
+    "page": 34,
+    "total_records": 10019,
+    "total_pages": 101,
+    "took": 0.14783501625061035,
+    "records": [
+        {
+            "date": 20180611,
+            "filename": "BDM-1-52468695",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府消防局107年歐式消防衣採購案",
+                "companies": {
+                    "ids": [
+                        "12835688",
+                        "53696979",
+                        "16109955"
+                    ],
+                    "names": [
+                        "庭鶴有限公司",
+                        "立宇實業有限公司",
+                        "杰榮貿易有限公司"
+                    ],
+                    "id_key": {
+                        "12835688": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "16109955": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "53696979": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "庭鶴有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "杰榮貿易有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "立宇實業有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1070814",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070814",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070814\/20180611\/BDM-1-52468695"
+        },
+        {
+            "date": 20180611,
+            "filename": "ttd-52519540",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府教育局校園資訊資源向上集中計畫– 儲存體硬碟及伺服器記憶體財物採購",
+                "category": "財物類452-計算機及其零件與配件",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "20180611",
+            "unit_id": "3.95.4",
+            "unit_name": "臺南市政府教育局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.4",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.4&job_number=20180611",
+            "unit_url": "\/index\/unit\/3.95.4",
+            "url": "\/index\/case\/3.95.4\/20180611\/20180611\/ttd-52519540"
+        },
+        {
+            "date": 20180608,
+            "filename": "TIQ-2-52237158",
+            "brief": {
+                "type": "公開招標更正公告",
+                "title": "臺南市政府社會局新營區家庭福利服務中心內部修繕",
+                "category": "財物類389-其他製造商品",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1071010",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1071010",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1071010\/20180608\/TIQ-2-52237158"
+        },
+        {
+            "date": 20180608,
+            "filename": "TIQ-11-52239541",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "玉井區107年度(第二期)臺南市政府農業局補助工程委託測設監造(開口契約)",
+                "category": "勞務類884-附帶於製造業之服務(製造金屬產品、機械及設備除外)",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "107-A18",
+            "unit_id": "3.95.79",
+            "unit_name": "臺南市玉井區公所",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.79",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.79&job_number=107-A18",
+            "unit_url": "\/index\/unit\/3.95.79",
+            "url": "\/index\/case\/3.95.79\/107-A18\/20180608\/TIQ-11-52239541"
+        },
+        {
+            "date": 20180607,
+            "filename": "BDM-1-52466076",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府地政局強化地政資訊安全防護能力暨資料中心建置案",
+                "companies": {
+                    "ids": [
+                        "24542716"
+                    ],
+                    "names": [
+                        "精誠科技整合股份有限公司"
+                    ],
+                    "id_key": {
+                        "24542716": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "精誠科技整合股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCLM1070426",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070426",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070426\/20180607\/BDM-1-52466076"
+        },
+        {
+            "date": 20180607,
+            "filename": "BDM-1-52466197",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府消防局107年度公務車輛潤滑油1批採購案-第1次後續擴充",
+                "companies": {
+                    "ids": [
+                        "28810945"
+                    ],
+                    "names": [
+                        "億得國際有限公司"
+                    ],
+                    "id_key": {
+                        "28810945": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "億得國際有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1070703-1",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070703-1",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070703-1\/20180607\/BDM-1-52466197"
+        },
+        {
+            "date": 20180607,
+            "filename": "BDM-1-52467292",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府社會局永康區暨麻豆區家庭福利服務中心室內裝修工程委託規劃設計監造案",
+                "companies": {
+                    "ids": [
+                        "20161783"
+                    ],
+                    "names": [
+                        "豪文室內裝修設計工作室"
+                    ],
+                    "id_key": {
+                        "20161783": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "豪文室內裝修設計工作室": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070035",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070035",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070035\/20180607\/BDM-1-52467292"
+        },
+        {
+            "date": 20180606,
+            "filename": "TIQ-1-52236780",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "107年臺南市政府地政局及所屬地政事務所地政便民服務平台系統開發建置案",
+                "category": "勞務類842-軟體執行服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLM1070521",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070521",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070521\/20180606\/TIQ-1-52236780"
+        },
+        {
+            "date": 20180606,
+            "filename": "TIQ-1-52236833",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府地政局地政系統備援設備汰換案",
+                "category": "財物類452-計算機及其零件與配件",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLM1070501",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070501",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070501\/20180606\/TIQ-1-52236833"
+        },
+        {
+            "date": 20180606,
+            "filename": "TIQ-1-52237158",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府社會局新營區家庭福利服務中心內部修繕",
+                "category": "財物類389-其他製造商品",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1071010",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1071010",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1071010\/20180606\/TIQ-1-52237158"
+        },
+        {
+            "date": 20180606,
+            "filename": "TIQ-2-52229503",
+            "brief": {
+                "type": "公開招標更正公告",
+                "title": "臺南市政府地政局及所屬地所機房不斷電系統設備暨環境監控系統設備汰換案",
+                "category": "財物類452-計算機及其零件與配件",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLM1070528",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070528",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070528\/20180606\/TIQ-2-52229503"
+        },
+        {
+            "date": 20180606,
+            "filename": "TIQ-4-52231157",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)更正公告",
+                "title": "臺南市政府教育局委託辦理「私立大成非營利幼兒園」",
+                "category": "勞務類92-教育服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "20180529",
+            "unit_id": "3.95.4",
+            "unit_name": "臺南市政府教育局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.4",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.4&job_number=20180529",
+            "unit_url": "\/index\/unit\/3.95.4",
+            "url": "\/index\/case\/3.95.4\/20180529\/20180606\/TIQ-4-52231157"
+        },
+        {
+            "date": 20180606,
+            "filename": "NAI-1-52465346",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "107年臺南市政府地政局及所屬地政事務所地政便民服務平台系統開發建置案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLM1070521",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070521",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070521\/20180606\/NAI-1-52465346"
+        },
+        {
+            "date": 20180606,
+            "filename": "NAI-1-52465420",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府地政局地政系統備援設備汰換案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLM1070501",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070501",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070501\/20180606\/NAI-1-52465420"
+        },
+        {
+            "date": 20180606,
+            "filename": "aaa-52466668",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府警察局麻豆分局107年度廳舍整修工程",
+                "companies": {
+                    "ids": [],
+                    "names": [
+                        "劉建志建築師事務所"
+                    ],
+                    "id_key": [],
+                    "name_key": {
+                        "劉建志建築師事務所": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070606M",
+            "unit_id": "3.95.13.30",
+            "unit_name": "臺南市政府警察局麻豆分局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13.30",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13.30&job_number=1070606M",
+            "unit_url": "\/index\/unit\/3.95.13.30",
+            "url": "\/index\/case\/3.95.13.30\/1070606M\/20180606\/aaa-52466668"
+        },
+        {
+            "date": 20180605,
+            "filename": "TIQ-12-52234634",
+            "brief": {
+                "type": "公開取得報價單或企劃書更正公告",
+                "title": "臺南市政府地政局施政成果專刊編輯印製委外服務",
+                "category": "勞務類911-政府行政服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLY1070601",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLY1070601",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLY1070601\/20180605\/TIQ-12-52234634"
+        },
+        {
+            "date": 20180605,
+            "filename": "ttd-52513322",
+            "brief": {
+                "type": "公開取得報價單或企劃書更正公告",
+                "title": "臺南市政府教育局施政成果專書編輯設計及出版勞務採購案",
+                "category": "勞務類97-其他服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "20180604A",
+            "unit_id": "3.95.4",
+            "unit_name": "臺南市政府教育局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.4",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.4&job_number=20180604A",
+            "unit_url": "\/index\/unit\/3.95.4",
+            "url": "\/index\/case\/3.95.4\/20180604A\/20180605\/ttd-52513322"
+        },
+        {
+            "date": 20180604,
+            "filename": "TIQ-1-52235028",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府社會局107年購置3輛小型復康巴士",
+                "category": "財物類491-機動車,拖車,半拖車;車輛機件",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070036",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070036",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070036\/20180604\/TIQ-1-52235028"
+        },
+        {
+            "date": 20180604,
+            "filename": "BDM-1-52462867",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府消防局106年度抛棄式手套1批案後續擴充",
+                "companies": {
+                    "ids": [
+                        "24568074"
+                    ],
+                    "names": [
+                        "威羿有限公司"
+                    ],
+                    "id_key": {
+                        "24568074": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "威羿有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1060303-1",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1060303-1",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1060303-1\/20180604\/BDM-1-52462867"
+        },
+        {
+            "date": 20180604,
+            "filename": "NAI-1-52462553",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府消防局107年度民間救難團體及救難志願組織出勤、訓練意外保險案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070314",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070314",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070314\/20180604\/NAI-1-52462553"
+        },
+        {
+            "date": 20180604,
+            "filename": "TIQ-11-52234264",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府消防局107年度民間救難團體及救難志願組織出勤、訓練意外保險案",
+                "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070314",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070314",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070314\/20180604\/TIQ-11-52234264"
+        },
+        {
+            "date": 20180604,
+            "filename": "TIQ-11-52234634",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府地政局施政成果專刊編輯印製委外服務",
+                "category": "勞務類911-政府行政服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLY1070601",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLY1070601",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLY1070601\/20180604\/TIQ-11-52234634"
+        },
+        {
+            "date": 20180604,
+            "filename": "ttd-52513322",
+            "brief": {
+                "type": "公開取得報價單或企劃書更正公告",
+                "title": "臺南市政府教育局施政成果專書編輯設計及出版勞務採購案",
+                "category": "勞務類97-其他服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "20180604A",
+            "unit_id": "3.95.4",
+            "unit_name": "臺南市政府教育局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.4",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.4&job_number=20180604A",
+            "unit_url": "\/index\/unit\/3.95.4",
+            "url": "\/index\/case\/3.95.4\/20180604A\/20180604\/ttd-52513322"
+        },
+        {
+            "date": 20180601,
+            "filename": "TIQ-1-52233772",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府文化局－台江文化中心有線、無線及機房網路資訊設備採購案",
+                "category": "財物類452-計算機及其零件與配件",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TC107B008",
+            "unit_id": "3.95.33",
+            "unit_name": "臺南市政府文化局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.33",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.33&job_number=TC107B008",
+            "unit_url": "\/index\/unit\/3.95.33",
+            "url": "\/index\/case\/3.95.33\/TC107B008\/20180601\/TIQ-1-52233772"
+        },
+        {
+            "date": 20180601,
+            "filename": "BDM-1-52462100",
+            "brief": {
+                "type": "決標公告",
+                "title": "107年度臺南市政府職涯性向工具運用專業人員訓練計畫",
+                "companies": {
+                    "ids": [
+                        "16795238"
+                    ],
+                    "names": [
+                        "就業情報資訊股份有限公司"
+                    ],
+                    "id_key": {
+                        "16795238": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "就業情報資訊股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "107LAB046",
+            "unit_id": "3.95.24",
+            "unit_name": "臺南市政府勞工局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.24",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.24&job_number=107LAB046",
+            "unit_url": "\/index\/unit\/3.95.24",
+            "url": "\/index\/case\/3.95.24\/107LAB046\/20180601\/BDM-1-52462100"
+        },
+        {
+            "date": 20180601,
+            "filename": "BDM-1-52462235",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府消防局107年度義消消防衣帽鞋裝備採購案",
+                "companies": {
+                    "ids": [
+                        "16109955",
+                        "53696979",
+                        "12835688",
+                        "53472274",
+                        "53226674"
+                    ],
+                    "names": [
+                        "杰榮貿易有限公司",
+                        "立宇實業有限公司",
+                        "庭鶴有限公司",
+                        "固巧快實業有限公司",
+                        "廣竹貿易有限公司"
+                    ],
+                    "id_key": {
+                        "12835688": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "16109955": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "53226674": [
+                            "投標廠商:投標廠商5:廠商代碼"
+                        ],
+                        "53472274": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "53696979": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "庭鶴有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "廣竹貿易有限公司": [
+                            "投標廠商:投標廠商5:廠商名稱",
+                            "決標品項:第1品項:未得標廠商4:未得標廠商"
+                        ],
+                        "杰榮貿易有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "立宇實業有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "固巧快實業有限公司": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1070210",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070210",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070210\/20180601\/BDM-1-52462235"
+        },
+        {
+            "date": 20180531,
+            "filename": "TIQ-1-52231569",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府工務局107年公務車保險採購案",
+                "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "21070501",
+            "unit_id": "3.95.11",
+            "unit_name": "臺南市政府工務局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.11",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.11&job_number=21070501",
+            "unit_url": "\/index\/unit\/3.95.11",
+            "url": "\/index\/case\/3.95.11\/21070501\/20180531\/TIQ-1-52231569"
+        },
+        {
+            "date": 20180531,
+            "filename": "TIQ-3-52232183",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府社會局委託辦理「107-108年臺南市南灜親子館暨新營親子悠遊館」",
+                "category": "勞務類911-政府行政服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070040",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070040",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070040\/20180531\/TIQ-3-52232183"
+        },
+        {
+            "date": 20180531,
+            "filename": "TIQ-4-52231157",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)更正公告",
+                "title": "臺南市政府教育局委託辦理「私立大成非營利幼兒園」",
+                "category": "勞務類92-教育服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "20180529",
+            "unit_id": "3.95.4",
+            "unit_name": "臺南市政府教育局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.4",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.4&job_number=20180529",
+            "unit_url": "\/index\/unit\/3.95.4",
+            "url": "\/index\/case\/3.95.4\/20180529\/20180531\/TIQ-4-52231157"
+        },
+        {
+            "date": 20180531,
+            "filename": "BDM-1-52459641",
+            "brief": {
+                "type": "決標公告",
+                "title": "107年度臺南市政府交通局全球資訊網站平台功能擴充案",
+                "companies": {
+                    "ids": [
+                        "27698917"
+                    ],
+                    "names": [
+                        "奇豐資訊科技股份有限公司"
+                    ],
+                    "id_key": {
+                        "27698917": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "奇豐資訊科技股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070309",
+            "unit_id": "3.95.29",
+            "unit_name": "臺南市政府交通局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.29",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.29&job_number=1070309",
+            "unit_url": "\/index\/unit\/3.95.29",
+            "url": "\/index\/case\/3.95.29\/1070309\/20180531\/BDM-1-52459641"
+        },
+        {
+            "date": 20180531,
+            "filename": "NAI-1-52460185",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府社會局107年購置3輛小型復康巴士",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070036",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070036",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070036\/20180531\/NAI-1-52460185"
+        },
+        {
+            "date": 20180531,
+            "filename": "ttd-52510018",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府消防局107年歐式消防衣採購案",
+                "category": "財物類4393-其他通用機具",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070814",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070814",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070814\/20180531\/ttd-52510018"
+        },
+        {
+            "date": 20180531,
+            "filename": "ttd-52509699",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府警察局麻豆分局107年度廳舍整修工程",
+                "category": "勞務類8672-工程服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070606M",
+            "unit_id": "3.95.13.30",
+            "unit_name": "臺南市政府警察局麻豆分局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13.30",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13.30&job_number=1070606M",
+            "unit_url": "\/index\/unit\/3.95.13.30",
+            "url": "\/index\/case\/3.95.13.30\/1070606M\/20180531\/ttd-52509699"
+        },
+        {
+            "date": 20180530,
+            "filename": "TIQ-1-52230703",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府地政局強化地政資訊安全防護能力暨資料中心建置案",
+                "category": "財物類452-計算機及其零件與配件",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLM1070426",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070426",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070426\/20180530\/TIQ-1-52230703"
+        },
+        {
+            "date": 20180530,
+            "filename": "TIQ-3-52231157",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府教育局委託辦理「私立大成非營利幼兒園」",
+                "category": "勞務類92-教育服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "20180529",
+            "unit_id": "3.95.4",
+            "unit_name": "臺南市政府教育局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.4",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.4&job_number=20180529",
+            "unit_url": "\/index\/unit\/3.95.4",
+            "url": "\/index\/case\/3.95.4\/20180529\/20180530\/TIQ-3-52231157"
+        },
+        {
+            "date": 20180530,
+            "filename": "BDM-1-52459321",
+            "brief": {
+                "type": "決標公告",
+                "title": "106年臺南市政府市政成果影片製作勞務採購案",
+                "companies": {
+                    "ids": [
+                        "54185270",
+                        "47793777",
+                        "84999365",
+                        "54340511",
+                        "24321431",
+                        "29098734",
+                        "28177540"
+                    ],
+                    "names": [
+                        "方成事整合行銷有限公司",
+                        "熊南人電影映像工作室",
+                        "新永安有線電視股份有限公司",
+                        "國風傳媒有限公司",
+                        "見素影像有限公司",
+                        "瑪爾克電影有限公司",
+                        "和久室國際製作有限公司"
+                    ],
+                    "id_key": {
+                        "24321431": [
+                            "投標廠商:投標廠商5:廠商代碼"
+                        ],
+                        "28177540": [
+                            "投標廠商:投標廠商7:廠商代碼"
+                        ],
+                        "29098734": [
+                            "投標廠商:投標廠商6:廠商代碼"
+                        ],
+                        "47793777": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "54185270": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "54340511": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "84999365": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "國風傳媒有限公司": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商4:未得標廠商"
+                        ],
+                        "見素影像有限公司": [
+                            "投標廠商:投標廠商5:廠商名稱",
+                            "決標品項:第1品項:未得標廠商5:未得標廠商"
+                        ],
+                        "瑪爾克電影有限公司": [
+                            "投標廠商:投標廠商6:廠商名稱",
+                            "決標品項:第1品項:未得標廠商6:未得標廠商"
+                        ],
+                        "熊南人電影映像工作室": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "和久室國際製作有限公司": [
+                            "投標廠商:投標廠商7:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "方成事整合行銷有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "新永安有線電視股份有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "107B0018",
+            "unit_id": "3.95",
+            "unit_name": "臺南市政府",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95&job_number=107B0018",
+            "unit_url": "\/index\/unit\/3.95",
+            "url": "\/index\/case\/3.95\/107B0018\/20180530\/BDM-1-52459321"
+        },
+        {
+            "date": 20180530,
+            "filename": "NAI-1-52458690",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府地政局強化地政資訊安全防護能力暨資料中心建置案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLM1070426",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070426",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070426\/20180530\/NAI-1-52458690"
+        },
+        {
+            "date": 20180530,
+            "filename": "NAI-1-52459014",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府工務局107年公務車保險採購案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "21070501",
+            "unit_id": "3.95.11",
+            "unit_name": "臺南市政府工務局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.11",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.11&job_number=21070501",
+            "unit_url": "\/index\/unit\/3.95.11",
+            "url": "\/index\/case\/3.95.11\/21070501\/20180530\/NAI-1-52459014"
+        },
+        {
+            "date": 20180530,
+            "filename": "ttd-52508529",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府消防局107年度搶救用燈具採購案",
+                "category": "財物類4393-其他通用機具",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070813",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070813",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070813\/20180530\/ttd-52508529"
+        },
+        {
+            "date": 20180530,
+            "filename": "aaa-52460155",
+            "brief": {
+                "type": "更正決標公告",
+                "title": "臺南市政府消防局107年度資通訊義消無人飛行器",
+                "companies": {
+                    "ids": [
+                        "36927222"
+                    ],
+                    "names": [
+                        "獅子王模型工坊"
+                    ],
+                    "id_key": {
+                        "36927222": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "獅子王模型工坊": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1070216",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070216",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070216\/20180530\/aaa-52460155"
+        },
+        {
+            "date": 20180529,
+            "filename": "TIQ-1-52229503",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府地政局及所屬地所機房不斷電系統設備暨環境監控系統設備汰換案",
+                "category": "財物類452-計算機及其零件與配件",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLM1070528",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070528",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070528\/20180529\/TIQ-1-52229503"
+        },
+        {
+            "date": 20180529,
+            "filename": "BDM-1-52457756",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府警察局麻豆分局107年度本分局所屬建築物(安業、總爺、茅港、湖山等4派出所)耐震補強改修工程案",
+                "companies": {
+                    "ids": [
+                        "64908296"
+                    ],
+                    "names": [
+                        "慶民營造有限公司"
+                    ],
+                    "id_key": {
+                        "64908296": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "慶民營造有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070510M",
+            "unit_id": "3.95.13.30",
+            "unit_name": "臺南市政府警察局麻豆分局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13.30",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13.30&job_number=1070510M",
+            "unit_url": "\/index\/unit\/3.95.13.30",
+            "url": "\/index\/case\/3.95.13.30\/1070510M\/20180529\/BDM-1-52457756"
+        },
+        {
+            "date": 20180529,
+            "filename": "aaa-52459569",
+            "brief": {
+                "type": "決標公告",
+                "title": "107年度臺南市政府推行水雉保育獎勵方案之水雉巢查核",
+                "companies": {
+                    "ids": [
+                        "78963038"
+                    ],
+                    "names": [
+                        "社團法人台南市野鳥學會"
+                    ],
+                    "id_key": {
+                        "78963038": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "社團法人台南市野鳥學會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "107AGR035",
+            "unit_id": "3.95.27",
+            "unit_name": "臺南市政府農業局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.27",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.27&job_number=107AGR035",
+            "unit_url": "\/index\/unit\/3.95.27",
+            "url": "\/index\/case\/3.95.27\/107AGR035\/20180529\/aaa-52459569"
+        },
+        {
+            "date": 20180528,
+            "filename": "BDM-1-52456274",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府107年度菸酒稽查及取締人員參觀訪問活動",
+                "companies": {
+                    "ids": [
+                        "97499258",
+                        "45898629",
+                        "80388335"
+                    ],
+                    "names": [
+                        "全輪旅行社股份有限公司",
+                        "國君旅行社有限公司",
+                        "台翊馨旅行社有限公司"
+                    ],
+                    "id_key": {
+                        "45898629": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "80388335": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "97499258": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "國君旅行社有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "台翊馨旅行社有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "全輪旅行社股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "10730",
+            "unit_id": "3.95.37",
+            "unit_name": "臺南市政府財政稅務局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.37",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.37&job_number=10730",
+            "unit_url": "\/index\/unit\/3.95.37",
+            "url": "\/index\/case\/3.95.37\/10730\/20180528\/BDM-1-52456274"
+        },
+        {
+            "date": 20180525,
+            "filename": "TIQ-1-52227514",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府無障礙福利之家室內照明節能及B棟屋頂隔熱改善工程",
+                "category": "工程類5179-其他裝修工程",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070038",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070038",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070038\/20180525\/TIQ-1-52227514"
+        },
+        {
+            "date": 20180525,
+            "filename": "TIQ-4-52222743",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)更正公告",
+                "title": "臺南市政府教育局所屬學校及公立幼兒園107年度校舍火險",
+                "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "20180518",
+            "unit_id": "3.95.4",
+            "unit_name": "臺南市政府教育局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.4",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.4&job_number=20180518",
+            "unit_url": "\/index\/unit\/3.95.4",
+            "url": "\/index\/case\/3.95.4\/20180518\/20180525\/TIQ-4-52222743"
+        },
+        {
+            "date": 20180525,
+            "filename": "BDM-1-52454756",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府跨瀏覽器版公文線上簽核系統建置案",
+                "companies": {
+                    "ids": [
+                        "22425662"
+                    ],
+                    "names": [
+                        "叡揚資訊股份有限公司"
+                    ],
+                    "id_key": {
+                        "22425662": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "叡揚資訊股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "21070403",
+            "unit_id": "3.95.100.3",
+            "unit_name": "3.95.100.3",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.100.3",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.100.3&job_number=21070403",
+            "unit_url": "\/index\/unit\/3.95.100.3",
+            "url": "\/index\/case\/3.95.100.3\/21070403\/20180525\/BDM-1-52454756"
+        },
+        {
+            "date": 20180525,
+            "filename": "NAI-1-52455440",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府消防局107年度資通訊義消人員服裝採購案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070711",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070711",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070711\/20180525\/NAI-1-52455440"
+        },
+        {
+            "date": 20180525,
+            "filename": "TIQ-11-52227641",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府消防局107年度資通訊義消人員服裝採購案",
+                "category": "財物類282-成衣,毛皮服裝除外",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070711",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070711",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070711\/20180525\/TIQ-11-52227641"
+        },
+        {
+            "date": 20180525,
+            "filename": "ttd-52505350",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府勞工局107年度「性別工作平等創意宣導影片」實施計畫",
+                "category": "勞務類879-其他商業服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "107LAB053",
+            "unit_id": "3.95.24",
+            "unit_name": "臺南市政府勞工局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.24",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.24&job_number=107LAB053",
+            "unit_url": "\/index\/unit\/3.95.24",
+            "url": "\/index\/case\/3.95.24\/107LAB053\/20180525\/ttd-52505350"
+        },
+        {
+            "date": 20180525,
+            "filename": "aaa-52457030",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府社會局107年度國民年金業務宣導品採購案",
+                "companies": {
+                    "ids": [
+                        "42723491",
+                        "72386411",
+                        "99521642",
+                        "47791671"
+                    ],
+                    "names": [
+                        "貨然開朗事業有限公司",
+                        "虹羚企業社",
+                        "軒彩企業社",
+                        "尚賀企業社"
+                    ],
+                    "id_key": {
+                        "42723491": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "47791671": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "72386411": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "99521642": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "尚賀企業社": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ],
+                        "虹羚企業社": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "軒彩企業社": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "貨然開朗事業有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070037",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070037",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070037\/20180525\/aaa-52457030"
+        },
+        {
+            "date": 20180524,
+            "filename": "TIQ-1-52226494",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "107年度臺南市政府工務局第三工務大隊路面維護開口合約",
+                "category": "工程類5131-快速道路(不含高架快速道路),街道,馬路,鐵路及機場跑道",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "110705042",
+            "unit_id": "3.95.11",
+            "unit_name": "臺南市政府工務局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.11",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.11&job_number=110705042",
+            "unit_url": "\/index\/unit\/3.95.11",
+            "url": "\/index\/case\/3.95.11\/110705042\/20180524\/TIQ-1-52226494"
+        },
+        {
+            "date": 20180524,
+            "filename": "BDM-1-52454470",
+            "brief": {
+                "type": "決標公告",
+                "title": "107年度臺南市政府警察局犯罪預防科辦公室屋頂隔熱改善工程",
+                "companies": {
+                    "ids": [
+                        "99277788"
+                    ],
+                    "names": [
+                        "瑞慶防水土木包工業"
+                    ],
+                    "id_key": {
+                        "99277788": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "瑞慶防水土木包工業": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070430C",
+            "unit_id": "3.95.13",
+            "unit_name": "臺南市政府警察局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13&job_number=1070430C",
+            "unit_url": "\/index\/unit\/3.95.13",
+            "url": "\/index\/case\/3.95.13\/1070430C\/20180524\/BDM-1-52454470"
+        },
+        {
+            "date": 20180524,
+            "filename": "BDM-2-52453356",
+            "brief": {
+                "type": "更正決標公告",
+                "title": "臺南市政府警察局白河分局107年度所屬建築物(東山分駐所及白河派出所)耐震補強改修工程案",
+                "companies": {
+                    "ids": [
+                        "97836239"
+                    ],
+                    "names": [
+                        "金牌土木包工業"
+                    ],
+                    "id_key": {
+                        "97836239": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "金牌土木包工業": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070125A",
+            "unit_id": "3.95.13.27",
+            "unit_name": "臺南市政府警察局白河分局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13.27",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13.27&job_number=1070125A",
+            "unit_url": "\/index\/unit\/3.95.13.27",
+            "url": "\/index\/case\/3.95.13.27\/1070125A\/20180524\/BDM-2-52453356"
+        },
+        {
+            "date": 20180524,
+            "filename": "NAI-1-52454650",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "107年臺南市政府委託辦理國際城市行銷及交流活動案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "107B0024",
+            "unit_id": "3.95",
+            "unit_name": "臺南市政府",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95&job_number=107B0024",
+            "unit_url": "\/index\/unit\/3.95",
+            "url": "\/index\/case\/3.95\/107B0024\/20180524\/NAI-1-52454650"
+        },
+        {
+            "date": 20180524,
+            "filename": "ttd-52504511",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "107年度本所預算及臺南市政府相關局處補助或委辦橋梁及道路(包含其附屬工程等)委託測設監造開口契約（第二期）",
+                "category": "勞務類8672-工程服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "10701009",
+            "unit_id": "3.95.80",
+            "unit_name": "臺南市楠西區公所",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.80",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.80&job_number=10701009",
+            "unit_url": "\/index\/unit\/3.95.80",
+            "url": "\/index\/case\/3.95.80\/10701009\/20180524\/ttd-52504511"
+        },
+        {
+            "date": 20180523,
+            "filename": "BDM-1-52453356",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府警察局白河分局107年度所屬建築物(東山分駐所及白河派出所)耐震補強改修工程案",
+                "companies": {
+                    "ids": [
+                        "97836239"
+                    ],
+                    "names": [
+                        "金牌土木包工業"
+                    ],
+                    "id_key": {
+                        "97836239": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "金牌土木包工業": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070125A",
+            "unit_id": "3.95.13.27",
+            "unit_name": "臺南市政府警察局白河分局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13.27",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13.27&job_number=1070125A",
+            "unit_url": "\/index\/unit\/3.95.13.27",
+            "url": "\/index\/case\/3.95.13.27\/1070125A\/20180523\/BDM-1-52453356"
+        },
+        {
+            "date": 20180523,
+            "filename": "TIQ-11-52225570",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府消防局107年度民間救難團體及救難志願組織出勤、訓練意外保險案",
+                "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070314",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070314",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070314\/20180523\/TIQ-11-52225570"
+        },
+        {
+            "date": 20180523,
+            "filename": "ttd-52502537",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府107年民治市政中心水電修繕(開口契約)",
+                "category": "勞務類63-零售業服務；個人及家用品維修服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "107B0012",
+            "unit_id": "3.95",
+            "unit_name": "臺南市政府",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95&job_number=107B0012",
+            "unit_url": "\/index\/unit\/3.95",
+            "url": "\/index\/case\/3.95\/107B0012\/20180523\/ttd-52502537"
+        },
+        {
+            "date": 20180523,
+            "filename": "ttd-52503081",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "107年臺南市政府委託辦理國際城市行銷及交流活動案",
+                "category": "勞務類911-政府行政服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "107B0024",
+            "unit_id": "3.95",
+            "unit_name": "臺南市政府",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95&job_number=107B0024",
+            "unit_url": "\/index\/unit\/3.95",
+            "url": "\/index\/case\/3.95\/107B0024\/20180523\/ttd-52503081"
+        },
+        {
+            "date": 20180522,
+            "filename": "TIQ-1-52223976",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "107年臺南市政府地政局及所屬地政事務所地政便民服務平台系統開發建置案",
+                "category": "勞務類842-軟體執行服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCLM1070521",
+            "unit_id": "3.95.16",
+            "unit_name": "臺南市政府地政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.16",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.16&job_number=TNCLM1070521",
+            "unit_url": "\/index\/unit\/3.95.16",
+            "url": "\/index\/case\/3.95.16\/TNCLM1070521\/20180522\/TIQ-1-52223976"
+        },
+        {
+            "date": 20180522,
+            "filename": "BDM-1-52451412",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府民政局及各戶政事務所107年親子日職棒觀賞暨績優戶政人員志工表揚大會",
+                "companies": {
+                    "ids": [
+                        "23534457"
+                    ],
+                    "names": [
+                        "統一棒球隊股份有限公司"
+                    ],
+                    "id_key": {
+                        "23534457": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "統一棒球隊股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "31070009",
+            "unit_id": "3.95.2",
+            "unit_name": "臺南市政府民政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.2",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.2&job_number=31070009",
+            "unit_url": "\/index\/unit\/3.95.2",
+            "url": "\/index\/case\/3.95.2\/31070009\/20180522\/BDM-1-52451412"
+        },
+        {
+            "date": 20180522,
+            "filename": "ttd-52499900",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府警察局交通警察大隊107年度員警健康檢查案",
+                "category": "勞務類93-健康及社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "107U0529-01",
+            "unit_id": "3.95.13.3",
+            "unit_name": "臺南市政府警察局交通警察大隊",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13.3",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13.3&job_number=107U0529-01",
+            "unit_url": "\/index\/unit\/3.95.13.3",
+            "url": "\/index\/case\/3.95.13.3\/107U0529-01\/20180522\/ttd-52499900"
+        },
+        {
+            "date": 20180522,
+            "filename": "ttd-52500938",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "107年度臺南市政府推行水雉保育獎勵方案之水雉巢查核",
+                "category": "勞務類881-附帶於農、牧、林之服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "107AGR035",
+            "unit_id": "3.95.27",
+            "unit_name": "臺南市政府農業局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.27",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.27&job_number=107AGR035",
+            "unit_url": "\/index\/unit\/3.95.27",
+            "url": "\/index\/case\/3.95.27\/107AGR035\/20180522\/ttd-52500938"
+        },
+        {
+            "date": 20180521,
+            "filename": "TIQ-3-52222743",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府教育局所屬學校及公立幼兒園107年度校舍火險",
+                "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "20180518",
+            "unit_id": "3.95.4",
+            "unit_name": "臺南市政府教育局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.4",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.4&job_number=20180518",
+            "unit_url": "\/index\/unit\/3.95.4",
+            "url": "\/index\/case\/3.95.4\/20180518\/20180521\/TIQ-3-52222743"
+        },
+        {
+            "date": 20180521,
+            "filename": "BDM-1-52450043",
+            "brief": {
+                "type": "決標公告",
+                "title": "107年度臺南市政府入侵偵測防禦系統",
+                "companies": {
+                    "ids": [
+                        "53394215"
+                    ],
+                    "names": [
+                        "東品資訊有限公司"
+                    ],
+                    "id_key": {
+                        "53394215": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "東品資訊有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "31070402",
+            "unit_id": "3.95.100.3",
+            "unit_name": "3.95.100.3",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.100.3",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.100.3&job_number=31070402",
+            "unit_url": "\/index\/unit\/3.95.100.3",
+            "url": "\/index\/case\/3.95.100.3\/31070402\/20180521\/BDM-1-52450043"
+        },
+        {
+            "date": 20180521,
+            "filename": "BDM-1-52450147",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府社會局委託辦理「臺南市107年私立託嬰中心評鑑」計畫",
+                "companies": {
+                    "ids": [
+                        "73502108"
+                    ],
+                    "names": [
+                        "崑山科技大學"
+                    ],
+                    "id_key": {
+                        "73502108": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "崑山科技大學": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070026",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070026",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070026\/20180521\/BDM-1-52450147"
+        },
+        {
+            "date": 20180521,
+            "filename": "BDM-1-52450568",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府消防局106年度高階指揮官個人防護裝備組採購案－第1次後續擴充",
+                "companies": {
+                    "ids": [
+                        "53696979"
+                    ],
+                    "names": [
+                        "立宇實業有限公司"
+                    ],
+                    "id_key": {
+                        "53696979": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "立宇實業有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1060711-1",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1060711-1",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1060711-1\/20180521\/BDM-1-52450568"
+        },
+        {
+            "date": 20180521,
+            "filename": "RML-1-50017830",
+            "brief": {
+                "type": "拒絕往來廠商名單公告",
+                "title": "107年度臺南市政府交通局違規罰鍰現金委託保全巡收案",
+                "companies": {
+                    "ids": [],
+                    "names": [
+                        "日盛保全股份有限公司"
+                    ],
+                    "id_key": [],
+                    "name_key": {
+                        "日盛保全股份有限公司": [
+                            "標案內容:廠商名稱"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070000",
+            "unit_id": "3.95.29",
+            "unit_name": "臺南市政府交通局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.29",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.29&job_number=1070000",
+            "unit_url": "\/index\/unit\/3.95.29",
+            "url": "\/index\/case\/3.95.29\/1070000\/20180521\/RML-1-50017830"
+        },
+        {
+            "date": 20180521,
+            "filename": "ttd-52500297",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "107年度臺南市政府參訪地方建設活動採購案",
+                "category": "勞務類74-支援及輔助運輸服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "10732",
+            "unit_id": "3.95.37",
+            "unit_name": "臺南市政府財政稅務局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.37",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.37&job_number=10732",
+            "unit_url": "\/index\/unit\/3.95.37",
+            "url": "\/index\/case\/3.95.37\/10732\/20180521\/ttd-52500297"
+        },
+        {
+            "date": 20180518,
+            "filename": "TIQ-2-52209177",
+            "brief": {
+                "type": "公開招標更正公告",
+                "title": "臺南市政府工務局107年公務車保險採購案",
+                "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "21070501",
+            "unit_id": "3.95.11",
+            "unit_name": "臺南市政府工務局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.11",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.11&job_number=21070501",
+            "unit_url": "\/index\/unit\/3.95.11",
+            "url": "\/index\/case\/3.95.11\/21070501\/20180518\/TIQ-2-52209177"
+        },
+        {
+            "date": 20180518,
+            "filename": "BDM-1-52448980",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府民政局108年度預算書印製案",
+                "companies": {
+                    "ids": [
+                        "72081641"
+                    ],
+                    "names": [
+                        "永昌印刷所"
+                    ],
+                    "id_key": {
+                        "72081641": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "永昌印刷所": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "21070006",
+            "unit_id": "3.95.2",
+            "unit_name": "臺南市政府民政局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.2",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.2&job_number=21070006",
+            "unit_url": "\/index\/unit\/3.95.2",
+            "url": "\/index\/case\/3.95.2\/21070006\/20180518\/BDM-1-52448980"
+        },
+        {
+            "date": 20180518,
+            "filename": "BDM-1-52449578",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府消防局重行辦理107年度義消人員福利壽險及意外保險案",
+                "companies": {
+                    "ids": [
+                        "03458902"
+                    ],
+                    "names": [
+                        "新光人壽保險股份有限公司"
+                    ],
+                    "id_key": {
+                        "03458902": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "新光人壽保險股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1070313",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070313",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070313\/20180518\/BDM-1-52449578"
+        },
+        {
+            "date": 20180518,
+            "filename": "BDM-1-52449709",
+            "brief": {
+                "type": "決標公告",
+                "title": "107年臺南市政府資訊安全及個人資料保護管理制度輔導驗證服務",
+                "companies": {
+                    "ids": [
+                        "27488980"
+                    ],
+                    "names": [
+                        "漢昕科技股份有限公司"
+                    ],
+                    "id_key": {
+                        "27488980": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "漢昕科技股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "21070402",
+            "unit_id": "3.95.100.3",
+            "unit_name": "3.95.100.3",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.100.3",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.100.3&job_number=21070402",
+            "unit_url": "\/index\/unit\/3.95.100.3",
+            "url": "\/index\/case\/3.95.100.3\/21070402\/20180518\/BDM-1-52449709"
+        },
+        {
+            "date": 20180517,
+            "filename": "TIQ-1-52219813",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府警察局麻豆分局107年度本分局所屬建築物(安業、總爺、茅港、湖山等4派出所)耐震補強改修工程案",
+                "category": "工程類5113-基地整建及清理工程",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070510M",
+            "unit_id": "3.95.13.30",
+            "unit_name": "臺南市政府警察局麻豆分局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13.30",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13.30&job_number=1070510M",
+            "unit_url": "\/index\/unit\/3.95.13.30",
+            "url": "\/index\/case\/3.95.13.30\/1070510M\/20180517\/TIQ-1-52219813"
+        },
+        {
+            "date": 20180517,
+            "filename": "BDM-2-52330812",
+            "brief": {
+                "type": "更正決標公告",
+                "title": "臺南市政府社會局委託辦理身心障礙者自立生活支持服務計畫",
+                "companies": {
+                    "ids": [
+                        "72202130"
+                    ],
+                    "names": [
+                        "財團法人高雄市關愛社會福利慈善事業基金會"
+                    ],
+                    "id_key": {
+                        "72202130": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "財團法人高雄市關愛社會福利慈善事業基金會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1070001",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070001",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070001\/20180517\/BDM-2-52330812"
+        },
+        {
+            "date": 20180517,
+            "filename": "NAI-1-52447771",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府消防局107年度購置救護耗材1批",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070215",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070215",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070215\/20180517\/NAI-1-52447771"
+        },
+        {
+            "date": 20180516,
+            "filename": "NAI-1-52446814",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "107年度臺南市政府警察局犯罪預防科辦公室屋頂隔熱改善工程",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070430C",
+            "unit_id": "3.95.13",
+            "unit_name": "臺南市政府警察局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13&job_number=1070430C",
+            "unit_url": "\/index\/unit\/3.95.13",
+            "url": "\/index\/case\/3.95.13\/1070430C\/20180516\/NAI-1-52446814"
+        },
+        {
+            "date": 20180516,
+            "filename": "TIQ-11-52218545",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府消防局107年度資通訊義消人員服裝採購案",
+                "category": "財物類282-成衣,毛皮服裝除外",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070711",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070711",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070711\/20180516\/TIQ-11-52218545"
+        },
+        {
+            "date": 20180516,
+            "filename": "TIQ-11-52219434",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "107年度臺南市政府警察局犯罪預防科辦公室屋頂隔熱改善工程",
+                "category": "工程類5153-屋頂及防水工程",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070430C",
+            "unit_id": "3.95.13",
+            "unit_name": "臺南市政府警察局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13&job_number=1070430C",
+            "unit_url": "\/index\/unit\/3.95.13",
+            "url": "\/index\/case\/3.95.13\/1070430C\/20180516\/TIQ-11-52219434"
+        },
+        {
+            "date": 20180515,
+            "filename": "TIQ-3-52218433",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府107年度「配合國土計畫推動農地資源空間規劃」計畫委外勞務採購",
+                "category": "勞務類881-附帶於農、牧、林之服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "107AGR029",
+            "unit_id": "3.95.27",
+            "unit_name": "臺南市政府農業局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.27",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.27&job_number=107AGR029",
+            "unit_url": "\/index\/unit\/3.95.27",
+            "url": "\/index\/case\/3.95.27\/107AGR029\/20180515\/TIQ-3-52218433"
+        },
+        {
+            "date": 20180514,
+            "filename": "FAS-1-50041064",
+            "brief": {
+                "type": "財物變賣公告",
+                "title": "臺南市政府環境保護局107年度變賣報廢車輛及其他財物一批標售案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "10708",
+            "unit_id": "3.95.15",
+            "unit_name": "臺南市政府環境保護局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.15",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.15&job_number=10708",
+            "unit_url": "\/index\/unit\/3.95.15",
+            "url": "\/index\/case\/3.95.15\/10708\/20180514\/FAS-1-50041064"
+        },
+        {
+            "date": 20180511,
+            "filename": "TIQ-1-52215494",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "107年度臺南市政府入侵偵測防禦系統",
+                "category": "財物類452-計算機及其零件與配件",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "31070402",
+            "unit_id": "3.95.100.3",
+            "unit_name": "3.95.100.3",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.100.3",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.100.3&job_number=31070402",
+            "unit_url": "\/index\/unit\/3.95.100.3",
+            "url": "\/index\/case\/3.95.100.3\/31070402\/20180511\/TIQ-1-52215494"
+        },
+        {
+            "date": 20180511,
+            "filename": "TIQ-1-52215834",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府社會局107年購置3輛小型復康巴士",
+                "category": "財物類491-機動車,拖車,半拖車;車輛機件",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070036",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070036",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070036\/20180511\/TIQ-1-52215834"
+        },
+        {
+            "date": 20180511,
+            "filename": "BDM-1-52442704",
+            "brief": {
+                "type": "決標公告",
+                "title": "107年度臺南市政府虛擬平台異地備份擴充",
+                "companies": {
+                    "ids": [
+                        "28407917",
+                        "86355418",
+                        "86273866"
+                    ],
+                    "names": [
+                        "鈊安資訊科技股份有限公司",
+                        "尚邑科技有限公司",
+                        "萬達科技股份有限公司"
+                    ],
+                    "id_key": {
+                        "28407917": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "86273866": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "86355418": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "尚邑科技有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "萬達科技股份有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "鈊安資訊科技股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "31070404",
+            "unit_id": "3.95.100.3",
+            "unit_name": "3.95.100.3",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.100.3",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.100.3&job_number=31070404",
+            "unit_url": "\/index\/unit\/3.95.100.3",
+            "url": "\/index\/case\/3.95.100.3\/31070404\/20180511\/BDM-1-52442704"
+        },
+        {
+            "date": 20180511,
+            "filename": "NAI-1-52442661",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "107年度臺南市政府入侵偵測防禦系統",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "31070402",
+            "unit_id": "3.95.100.3",
+            "unit_name": "3.95.100.3",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.100.3",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.100.3&job_number=31070402",
+            "unit_url": "\/index\/unit\/3.95.100.3",
+            "url": "\/index\/case\/3.95.100.3\/31070402\/20180511\/NAI-1-52442661"
+        },
+        {
+            "date": 20180511,
+            "filename": "NAI-1-52443405",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府警察局麻豆分局107年度本分局所屬建築物(安業、總爺、茅港、湖山等4派出所)耐震補強改修工程案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070510M",
+            "unit_id": "3.95.13.30",
+            "unit_name": "臺南市政府警察局麻豆分局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.13.30",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.13.30&job_number=1070510M",
+            "unit_url": "\/index\/unit\/3.95.13.30",
+            "url": "\/index\/case\/3.95.13.30\/1070510M\/20180511\/NAI-1-52443405"
+        },
+        {
+            "date": 20180510,
+            "filename": "TIQ-11-52214310",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府社會局永康區暨麻豆區家庭福利服務中心室內裝修工程委託規劃設計監造案",
+                "category": "勞務類8671-建築服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1070035",
+            "unit_id": "3.95.12",
+            "unit_name": "臺南市政府社會局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.12",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.12&job_number=1070035",
+            "unit_url": "\/index\/unit\/3.95.12",
+            "url": "\/index\/case\/3.95.12\/1070035\/20180510\/TIQ-11-52214310"
+        },
+        {
+            "date": 20180509,
+            "filename": "TIQ-1-52213044",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府消防局107年度購置救護耗材1批",
+                "category": "財物類481-醫療,外科及矯形設備",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070215",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070215",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070215\/20180509\/TIQ-1-52213044"
+        },
+        {
+            "date": 20180509,
+            "filename": "TIQ-1-52213194",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府消防局重行辦理107年度義消人員福利壽險及意外保險案",
+                "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070313",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070313",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070313\/20180509\/TIQ-1-52213194"
+        },
+        {
+            "date": 20180509,
+            "filename": "TIQ-2-52209177",
+            "brief": {
+                "type": "公開招標更正公告",
+                "title": "臺南市政府工務局107年公務車保險採購案",
+                "category": "勞務類812-保險(包括再保險)及退休基金服務，不包括強制性社會安全服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "21070501",
+            "unit_id": "3.95.11",
+            "unit_name": "臺南市政府工務局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.11",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.11&job_number=21070501",
+            "unit_url": "\/index\/unit\/3.95.11",
+            "url": "\/index\/case\/3.95.11\/21070501\/20180509\/TIQ-2-52209177"
+        },
+        {
+            "date": 20180509,
+            "filename": "BDM-1-52439848",
+            "brief": {
+                "type": "決標公告",
+                "title": "「臺南市政府消防局8年市政成果專書」編輯印製案",
+                "companies": {
+                    "ids": [
+                        "84720144",
+                        "22713404"
+                    ],
+                    "names": [
+                        "峰德文化事業股份有限公司",
+                        "仁翔美術印刷股份有限公司"
+                    ],
+                    "id_key": {
+                        "22713404": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "84720144": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "仁翔美術印刷股份有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "峰德文化事業股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1070312",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070312",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070312\/20180509\/BDM-1-52439848"
+        },
+        {
+            "date": 20180509,
+            "filename": "BDM-1-52440580",
+            "brief": {
+                "type": "決標公告",
+                "title": "107年度臺南市政府英語友善觀光城市(寺廟篇)英文宣傳影片暨行銷規劃委託服務案",
+                "companies": {
+                    "ids": [
+                        "80009284",
+                        "64912453"
+                    ],
+                    "names": [
+                        "Rich J Matheson 黃華",
+                        "新視界整合行銷有限公司",
+                        "無極限文創股份有限公司"
+                    ],
+                    "id_key": {
+                        "64912453": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "80009284": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "Rich J Matheson 黃華": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "新視界整合行銷有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "無極限文創股份有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "107B0011",
+            "unit_id": "3.95",
+            "unit_name": "臺南市政府",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95&job_number=107B0011",
+            "unit_url": "\/index\/unit\/3.95",
+            "url": "\/index\/case\/3.95\/107B0011\/20180509\/BDM-1-52440580"
+        },
+        {
+            "date": 20180509,
+            "filename": "BDM-1-52440936",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府教育局「 107年青少年探索班」勞務採購",
+                "companies": {
+                    "ids": [
+                        "69119411",
+                        "21629098"
+                    ],
+                    "names": [
+                        "社團法人台南市基督教青年會",
+                        "社團法人台南市教育及兒童青少年發展協會"
+                    ],
+                    "id_key": {
+                        "21629098": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "69119411": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "社團法人台南市基督教青年會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "社團法人台南市教育及兒童青少年發展協會": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "20180402",
+            "unit_id": "3.95.4",
+            "unit_name": "臺南市政府教育局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.4",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.4&job_number=20180402",
+            "unit_url": "\/index\/unit\/3.95.4",
+            "url": "\/index\/case\/3.95.4\/20180402\/20180509\/BDM-1-52440936"
+        },
+        {
+            "date": 20180509,
+            "filename": "NAI-1-52439930",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府消防局107年度購置救護耗材1批",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070215",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070215",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070215\/20180509\/NAI-1-52439930"
+        },
+        {
+            "date": 20180509,
+            "filename": "NAI-1-52440156",
+            "brief": {
+                "type": "無法決標公告",
+                "title": "臺南市政府消防局重行辦理107年度義消人員福利壽險及意外保險案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "TNCFD1070313",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070313",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070313\/20180509\/NAI-1-52440156"
+        },
+        {
+            "date": 20180508,
+            "filename": "BDM-1-52438879",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府市政大樓、公有宿舍及市民廣場火災地震保險",
+                "companies": {
+                    "ids": [
+                        "70764090",
+                        "68749101",
+                        "23640470",
+                        "84445793"
+                    ],
+                    "names": [
+                        "兆豐產物保險股份有限公司台南分公司",
+                        "和泰產物保險股份有限公司台南分公司",
+                        "旺旺友聯產物保險股份有限公司永康分公司",
+                        "國泰世紀產物保險股份有限公司高雄分公司"
+                    ],
+                    "id_key": {
+                        "23640470": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "68749101": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "70764090": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "84445793": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "兆豐產物保險股份有限公司台南分公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "和泰產物保險股份有限公司台南分公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "國泰世紀產物保險股份有限公司高雄分公司": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ],
+                        "旺旺友聯產物保險股份有限公司永康分公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "107B0022",
+            "unit_id": "3.95",
+            "unit_name": "臺南市政府",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95&job_number=107B0022",
+            "unit_url": "\/index\/unit\/3.95",
+            "url": "\/index\/case\/3.95\/107B0022\/20180508\/BDM-1-52438879"
+        },
+        {
+            "date": 20180508,
+            "filename": "BDM-1-52438966",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府消防局107年潛水裝備24套採購案",
+                "companies": {
+                    "ids": [
+                        "23041355",
+                        "07678060"
+                    ],
+                    "names": [
+                        "快樂潛水器材有限公司",
+                        "東潛實業股份有限公司"
+                    ],
+                    "id_key": {
+                        "07678060": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "23041355": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "快樂潛水器材有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "東潛實業股份有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1070807",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070807",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070807\/20180508\/BDM-1-52438966"
+        },
+        {
+            "date": 20180508,
+            "filename": "BDM-1-52439356",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府消防局107年度單人雙層鋁床開口契約採購案",
+                "companies": {
+                    "ids": [
+                        "84985783",
+                        "54798215",
+                        "25707019",
+                        "86334414",
+                        "16413983"
+                    ],
+                    "names": [
+                        "港達實業有限公司",
+                        "子威實業有限公司",
+                        "風城企業社",
+                        "頂捷室內裝修興業股份有限公司",
+                        "翰達五金有限公司"
+                    ],
+                    "id_key": {
+                        "16413983": [
+                            "投標廠商:投標廠商5:廠商代碼"
+                        ],
+                        "25707019": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "54798215": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "84985783": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "86334414": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "風城企業社": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "子威實業有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "港達實業有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "翰達五金有限公司": [
+                            "投標廠商:投標廠商5:廠商名稱",
+                            "決標品項:第1品項:未得標廠商4:未得標廠商"
+                        ],
+                        "頂捷室內裝修興業股份有限公司": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "TNCFD1070214",
+            "unit_id": "3.95.32",
+            "unit_name": "臺南市政府消防局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.32",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.32&job_number=TNCFD1070214",
+            "unit_url": "\/index\/unit\/3.95.32",
+            "url": "\/index\/case\/3.95.32\/TNCFD1070214\/20180508\/BDM-1-52439356"
+        },
+        {
+            "date": 20180508,
+            "filename": "FAS-1-50041002",
+            "brief": {
+                "type": "財物變賣公告",
+                "title": "臺南市政府交通局107年第1次代保管逾期未領汽、機車拍賣案",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "PM1070001",
+            "unit_id": "3.95.29",
+            "unit_name": "臺南市政府交通局",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.95.29",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.95.29&job_number=PM1070001",
+            "unit_url": "\/index\/unit\/3.95.29",
+            "url": "\/index\/case\/3.95.29\/PM1070001\/20180508\/FAS-1-50041002"
+        }
+    ]
+}

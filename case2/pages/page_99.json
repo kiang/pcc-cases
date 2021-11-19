@@ -1,0 +1,3043 @@
+{
+    "query": "臺南市政府",
+    "page": 99,
+    "total_records": 10019,
+    "total_pages": 101,
+    "took": 0.11928200721740723,
+    "records": [
+        {
+            "date": 20070703,
+            "filename": "ttd-1846532",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理「外籍配偶家庭服務中心-生活資訊教育研習」",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960616",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960616",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960616\/20070703\/ttd-1846532"
+        },
+        {
+            "date": 20070703,
+            "filename": "ttd-1848374",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "「臺南市政府入口網96年度新增功能建置案」(計畫室)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960617",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960617",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960617\/20070703\/ttd-1848374"
+        },
+        {
+            "date": 20070703,
+            "filename": "aaa-1825704",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府教網中心機房建置設備財物採購(進學國小)",
+                "companies": {
+                    "ids": [
+                        "16253418",
+                        "80245323",
+                        "80319936"
+                    ],
+                    "names": [
+                        "寬普數位科技有限公司",
+                        "博格系統有限公司",
+                        "基智科技有限公司"
+                    ],
+                    "id_key": {
+                        "16253418": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "80245323": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "80319936": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "博格系統有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "基智科技有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "寬普數位科技有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "3960613",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3960613",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3960613\/20070703\/aaa-1825704"
+        },
+        {
+            "date": 20070702,
+            "filename": "ttd-1842691",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理「外籍配偶家庭服務中心-生活家事烹飪研習」",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960630",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960630",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960630\/20070702\/ttd-1842691"
+        },
+        {
+            "date": 20070629,
+            "filename": "aaa-1819366",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府委託辦理社區照顧關懷據點專業服務輔導計畫",
+                "companies": {
+                    "ids": [
+                        "06479492"
+                    ],
+                    "names": [
+                        "長榮大學"
+                    ],
+                    "id_key": {
+                        "06479492": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "長榮大學": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960523",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960523",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960523\/20070629\/aaa-1819366"
+        },
+        {
+            "date": 20070628,
+            "filename": "ttd-1846589",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府教網中心資訊安全防護建置設備(進學國小)",
+                "category": "財物類374-辦公機器、文書處理系統及錄影設備",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "3960620",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3960620",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3960620\/20070628\/ttd-1846589"
+        },
+        {
+            "date": 20070625,
+            "filename": "ttd-1823733",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理「外籍配偶家庭服務中心-生活適應之機車交通常識研習」",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960623",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960623",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960623\/20070625\/ttd-1823733"
+        },
+        {
+            "date": 20070625,
+            "filename": "ttd-1824352",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理「鳳凰專案」--婦女創(就)業培力",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960606",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960606",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960606\/20070625\/ttd-1824352"
+        },
+        {
+            "date": 20070623,
+            "filename": "ttd-1823521",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "「臺南市政府入口網96年度新增功能建置案」(計畫室)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960617",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960617",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960617\/20070623\/ttd-1823521"
+        },
+        {
+            "date": 20070623,
+            "filename": "ttd-1823520",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理「外籍配偶家庭服務中心-生活資訊教育研習」",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960616",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960616",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960616\/20070623\/ttd-1823520"
+        },
+        {
+            "date": 20070621,
+            "filename": "ttd-1827393",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府教網中心機房建置設備財物採購(進學國小)",
+                "category": "財物類374-辦公機器、文書處理系統及錄影設備",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "3960613",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3960613",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3960613\/20070621\/ttd-1827393"
+        },
+        {
+            "date": 20070613,
+            "filename": "ttd-1808183",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理「鳳凰專案」--婦女創(就)業培力",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960606",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960606",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960606\/20070613\/ttd-1808183"
+        },
+        {
+            "date": 20070613,
+            "filename": "aaa-1791554",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府委託辦理老人緊急救援通報服務",
+                "companies": {
+                    "ids": [
+                        "28204434",
+                        "12920571"
+                    ],
+                    "names": [
+                        "健康福祉事業有限公司",
+                        "金立盟安全科技股份有限公司"
+                    ],
+                    "id_key": {
+                        "12920571": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "28204434": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "健康福祉事業有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "金立盟安全科技股份有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960408",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960408",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960408\/20070613\/aaa-1791554"
+        },
+        {
+            "date": 20070601,
+            "filename": "ttd-1814796",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070601\/ttd-1814796"
+        },
+        {
+            "date": 20070528,
+            "filename": "ttd-1825962",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理社區照顧關懷據點專業服務輔導計畫",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960523",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960523",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960523\/20070528\/ttd-1825962"
+        },
+        {
+            "date": 20070523,
+            "filename": "ttd-1796086",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070523\/ttd-1796086"
+        },
+        {
+            "date": 20070522,
+            "filename": "aaa-1798143",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府與秀傳紀念醫院間確認優先續約權存在事件所衍生之訴訟事件委託專業服務工作",
+                "companies": {
+                    "ids": [],
+                    "names": [
+                        "陶靜芳律師"
+                    ],
+                    "id_key": [],
+                    "name_key": {
+                        "陶靜芳律師": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960517",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960517",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960517\/20070522\/aaa-1798143"
+        },
+        {
+            "date": 20070516,
+            "filename": "aaa-1805834",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府委託辦理性侵害犯罪加害人身心治療及輔導教育方案",
+                "companies": {
+                    "ids": [
+                        "56970295"
+                    ],
+                    "names": [
+                        "財團法人奇美醫院台南分院"
+                    ],
+                    "id_key": {
+                        "56970295": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "財團法人奇美醫院台南分院": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960434",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960434",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960434\/20070516\/aaa-1805834"
+        },
+        {
+            "date": 20070515,
+            "filename": "ttd-1797653",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070515\/ttd-1797653"
+        },
+        {
+            "date": 20070511,
+            "filename": "aaa-1769458",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府96年回溯檔案目錄建檔作業",
+                "companies": {
+                    "ids": [
+                        "45302016",
+                        "86271918",
+                        "27440467",
+                        "80443668",
+                        "13174881"
+                    ],
+                    "names": [
+                        "廣縉企業社",
+                        "羣達科技股份有限公司",
+                        "首席科技有限公司",
+                        "易邦資訊有限公司",
+                        "博觀科技有限公司"
+                    ],
+                    "id_key": {
+                        "13174881": [
+                            "投標廠商:投標廠商5:廠商代碼"
+                        ],
+                        "27440467": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "45302016": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "80443668": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "86271918": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "廣縉企業社": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "博觀科技有限公司": [
+                            "投標廠商:投標廠商5:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ],
+                        "易邦資訊有限公司": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商4:未得標廠商"
+                        ],
+                        "首席科技有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "羣達科技股份有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960429",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960429",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960429\/20070511\/aaa-1769458"
+        },
+        {
+            "date": 20070507,
+            "filename": "aaa-1768175",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府96年度餐飲類失業者職業訓練",
+                "companies": {
+                    "ids": [
+                        "88500326",
+                        "73502304",
+                        "69111403",
+                        "06480028"
+                    ],
+                    "names": [
+                        "高雄縣私立華德高級工業家事職業學校",
+                        "嘉南藥理科技大學",
+                        "臺灣省臺南市私立南英高級商工職業學校",
+                        "台南市私立亞洲高級職業學校"
+                    ],
+                    "id_key": {
+                        "06480028": [
+                            "投標廠商:投標廠商5:廠商代碼"
+                        ],
+                        "69111403": [
+                            "投標廠商:投標廠商3:廠商代碼",
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "73502304": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "88500326": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "嘉南藥理科技大學": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "台南市私立亞洲高級職業學校": [
+                            "投標廠商:投標廠商5:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "高雄縣私立華德高級工業家事職業學校": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商2:得標廠商"
+                        ],
+                        "臺灣省臺南市私立南英高級商工職業學校": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:得標廠商3:得標廠商",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960208",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960208",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960208\/20070507\/aaa-1768175"
+        },
+        {
+            "date": 20070507,
+            "filename": "aaa-1768515",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府96年度電腦資訊類失業者職業訓練",
+                "companies": {
+                    "ids": [
+                        "84566326",
+                        "13279870",
+                        "99548425",
+                        "73502108",
+                        "06397324",
+                        "97955375"
+                    ],
+                    "names": [
+                        "德鍵企業有限公司附設職業訓練中心",
+                        "私立群亞電腦美語短期補習班",
+                        "台南市私立學承電腦短期補習班",
+                        "崑山科技大學崑山科技大學",
+                        "台南市電腦商業同業公會",
+                        "私立北訓電腦短期補習班"
+                    ],
+                    "id_key": {
+                        "06397324": [
+                            "投標廠商:投標廠商7:廠商代碼"
+                        ],
+                        "13279870": [
+                            "投標廠商:投標廠商2:廠商代碼",
+                            "投標廠商:投標廠商6:廠商代碼"
+                        ],
+                        "73502108": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "84566326": [
+                            "投標廠商:投標廠商1:廠商代碼",
+                            "投標廠商:投標廠商5:廠商代碼"
+                        ],
+                        "97955375": [
+                            "投標廠商:投標廠商8:廠商代碼"
+                        ],
+                        "99548425": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "台南市電腦商業同業公會": [
+                            "投標廠商:投標廠商7:廠商名稱",
+                            "決標品項:第1品項:未得標廠商4:未得標廠商"
+                        ],
+                        "私立北訓電腦短期補習班": [
+                            "投標廠商:投標廠商8:廠商名稱",
+                            "決標品項:第1品項:未得標廠商5:未得標廠商"
+                        ],
+                        "崑山科技大學崑山科技大學": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "私立群亞電腦美語短期補習班": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "投標廠商:投標廠商6:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ],
+                        "台南市私立學承電腦短期補習班": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:得標廠商3:得標廠商"
+                        ],
+                        "德鍵企業有限公司附設職業訓練中心": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "投標廠商:投標廠商5:廠商名稱",
+                            "決標品項:第1品項:得標廠商2:得標廠商",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960207",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960207",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960207\/20070507\/aaa-1768515"
+        },
+        {
+            "date": 20070507,
+            "filename": "aaa-1771525",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府96年度服務類失業者職業訓練",
+                "companies": {
+                    "ids": [
+                        "73502304",
+                        "69119411",
+                        "06197464",
+                        "17154491",
+                        "99028281",
+                        "73502108",
+                        "88500326",
+                        "06479492",
+                        "73502016",
+                        "13993538"
+                    ],
+                    "names": [
+                        "嘉南藥理科技大學",
+                        "台南市基督教青年會",
+                        "台南市觀光協會",
+                        "中華殯葬教育學會",
+                        "台灣省女子美容商業同業公會聯合會附設南區職業訓練中心",
+                        "崑山科技大學",
+                        "高雄縣私立華德高級工業家事職業學校",
+                        "長榮大學",
+                        "遠東科技大學",
+                        "台南縣美姿禮儀造型職業工會"
+                    ],
+                    "id_key": {
+                        "06197464": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "06479492": [
+                            "投標廠商:投標廠商8:廠商代碼"
+                        ],
+                        "13993538": [
+                            "投標廠商:投標廠商11:廠商代碼"
+                        ],
+                        "17154491": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "69119411": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "73502016": [
+                            "投標廠商:投標廠商10:廠商代碼"
+                        ],
+                        "73502108": [
+                            "投標廠商:投標廠商6:廠商代碼",
+                            "投標廠商:投標廠商9:廠商代碼"
+                        ],
+                        "73502304": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "88500326": [
+                            "投標廠商:投標廠商7:廠商代碼"
+                        ],
+                        "99028281": [
+                            "投標廠商:投標廠商5:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "長榮大學": [
+                            "投標廠商:投標廠商8:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "崑山科技大學": [
+                            "投標廠商:投標廠商6:廠商名稱",
+                            "投標廠商:投標廠商9:廠商名稱",
+                            "決標品項:第1品項:得標廠商5:得標廠商",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "遠東科技大學": [
+                            "投標廠商:投標廠商10:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ],
+                        "台南市觀光協會": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:得標廠商6:得標廠商"
+                        ],
+                        "中華殯葬教育學會": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:得標廠商3:得標廠商"
+                        ],
+                        "嘉南藥理科技大學": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商2:得標廠商"
+                        ],
+                        "台南市基督教青年會": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "台南縣美姿禮儀造型職業工會": [
+                            "投標廠商:投標廠商11:廠商名稱",
+                            "決標品項:第1品項:未得標廠商4:未得標廠商"
+                        ],
+                        "高雄縣私立華德高級工業家事職業學校": [
+                            "投標廠商:投標廠商7:廠商名稱",
+                            "決標品項:第1品項:得標廠商7:得標廠商"
+                        ],
+                        "台灣省女子美容商業同業公會聯合會附設南區職業訓練中心": [
+                            "投標廠商:投標廠商5:廠商名稱",
+                            "決標品項:第1品項:得標廠商4:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960209",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960209",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960209\/20070507\/aaa-1771525"
+        },
+        {
+            "date": 20070504,
+            "filename": "ttd-1805728",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070504\/ttd-1805728"
+        },
+        {
+            "date": 20070501,
+            "filename": "ttd-1799218",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府「2007文化觀光年效益評估」(計畫室)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960136",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960136",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960136\/20070501\/ttd-1799218"
+        },
+        {
+            "date": 20070427,
+            "filename": "ttd-1802578",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理性侵害犯罪加害人身心治療及輔導教育方案",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960434",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960434",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960434\/20070427\/ttd-1802578"
+        },
+        {
+            "date": 20070425,
+            "filename": "ttd-1798466",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府96年回溯檔案目錄建檔作業",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960429",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960429",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960429\/20070425\/ttd-1798466"
+        },
+        {
+            "date": 20070424,
+            "filename": "ttd-1784447",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府「2007文化觀光年效益評估」(計畫室)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960136",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960136",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960136\/20070424\/ttd-1784447"
+        },
+        {
+            "date": 20070424,
+            "filename": "ttd-1779358",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070424\/ttd-1779358"
+        },
+        {
+            "date": 20070423,
+            "filename": "ttd-1817434",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理老人緊急救援通報服務",
+                "category": "勞務類2S0-公用事業及家管服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960408",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960408",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960408\/20070423\/ttd-1817434"
+        },
+        {
+            "date": 20070413,
+            "filename": "ttd-1771852",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070413\/ttd-1771852"
+        },
+        {
+            "date": 20070413,
+            "filename": "ttd-1771851",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府「2007文化觀光年效益評估」(計畫室)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960136",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960136",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960136\/20070413\/ttd-1771851"
+        },
+        {
+            "date": 20070411,
+            "filename": "ttd-1772961",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府(長青公寓)96年度清潔工作人力外包",
+                "category": "勞務類2S0-公用事業及家管服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960347",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960347",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960347\/20070411\/ttd-1772961"
+        },
+        {
+            "date": 20070410,
+            "filename": "ttd-1770524",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理老人緊急救援通報服務",
+                "category": "勞務類2S0-公用事業及家管服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960408",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960408",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960408\/20070410\/ttd-1770524"
+        },
+        {
+            "date": 20070403,
+            "filename": "ttd-1766356",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070403\/ttd-1766356"
+        },
+        {
+            "date": 20070329,
+            "filename": "ttd-1771313",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府(長青公寓)96年度清潔工作人力外包",
+                "category": "勞務類2S0-公用事業及家管服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960347",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960347",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960347\/20070329\/ttd-1771313"
+        },
+        {
+            "date": 20070323,
+            "filename": "ttd-1749133",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070323\/ttd-1749133"
+        },
+        {
+            "date": 20070323,
+            "filename": "aaa-1762763",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府委託辦理高風險家庭關懷輔導處遇服務(社會局)",
+                "companies": {
+                    "ids": [
+                        "04124664"
+                    ],
+                    "names": [
+                        "財團法人台灣世界展望會"
+                    ],
+                    "id_key": {
+                        "04124664": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "財團法人台灣世界展望會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960112",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960112",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960112\/20070323\/aaa-1762763"
+        },
+        {
+            "date": 20070313,
+            "filename": "ttd-1764096",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府(長青公寓)96年度伙食採購案",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960301",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960301",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960301\/20070313\/ttd-1764096"
+        },
+        {
+            "date": 20070313,
+            "filename": "ttd-1748759",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070313\/ttd-1748759"
+        },
+        {
+            "date": 20070309,
+            "filename": "aaa-1745855",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府暨所屬機關志工(義工)意外事故保險",
+                "companies": {
+                    "ids": [
+                        "23640470",
+                        "03435009",
+                        "70787050",
+                        "70764090",
+                        "84445793",
+                        "70826650"
+                    ],
+                    "names": [
+                        "友聯產物保險股份有限公司永康分公司",
+                        "蘇黎世產物保險股份有限公司",
+                        "第一產物保險股份有限公司台南分公司",
+                        "兆豐產物保險股份有限公司台南分公司",
+                        "國泰世紀產物保險股份有限公司高雄分公司",
+                        "富邦產物保險股份有限公司嘉義分公司"
+                    ],
+                    "id_key": {
+                        "03435009": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "23640470": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "70764090": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "70787050": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "70826650": [
+                            "投標廠商:投標廠商6:廠商代碼"
+                        ],
+                        "84445793": [
+                            "投標廠商:投標廠商5:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "蘇黎世產物保險股份有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "兆豐產物保險股份有限公司台南分公司": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商5:未得標廠商"
+                        ],
+                        "友聯產物保險股份有限公司永康分公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "富邦產物保險股份有限公司嘉義分公司": [
+                            "投標廠商:投標廠商6:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "第一產物保險股份有限公司台南分公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商4:未得標廠商"
+                        ],
+                        "國泰世紀產物保險股份有限公司高雄分公司": [
+                            "投標廠商:投標廠商5:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960134",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960134",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960134\/20070309\/aaa-1745855"
+        },
+        {
+            "date": 20070308,
+            "filename": "ttd-1785949",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府96年度服務類失業者職業訓練",
+                "category": "勞務類2U0-教育及訓練服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960209",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960209",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960209\/20070308\/ttd-1785949"
+        },
+        {
+            "date": 20070308,
+            "filename": "ttd-1776871",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府96年度餐飲類失業者職業訓練",
+                "category": "勞務類2U0-教育及訓練服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960208",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960208",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960208\/20070308\/ttd-1776871"
+        },
+        {
+            "date": 20070308,
+            "filename": "ttd-1777509",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府96年度電腦資訊類失業者職業訓練",
+                "category": "勞務類2U0-教育及訓練服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960207",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960207",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960207\/20070308\/ttd-1777509"
+        },
+        {
+            "date": 20070303,
+            "filename": "ttd-1753264",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理高風險家庭關懷輔導處遇服務(社會局)",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960112",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960112",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960112\/20070303\/ttd-1753264"
+        },
+        {
+            "date": 20070302,
+            "filename": "ttd-1761909",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府(長青公寓)96年度伙食採購案",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960301",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960301",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960301\/20070302\/ttd-1761909"
+        },
+        {
+            "date": 20070301,
+            "filename": "aaa-1741767",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府「『e代府城』城市刊物23至28期委外服務」案",
+                "companies": {
+                    "ids": [
+                        "69925576",
+                        "86426103",
+                        "22385943"
+                    ],
+                    "names": [
+                        "飛鴻文化股份有限公司",
+                        "泰銘照相製版社有限公司",
+                        "彩聖印刷股份有限公司"
+                    ],
+                    "id_key": {
+                        "22385943": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "69925576": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "86426103": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "彩聖印刷股份有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "飛鴻文化股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "泰銘照相製版社有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951204",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951204",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951204\/20070301\/aaa-1741767"
+        },
+        {
+            "date": 20070227,
+            "filename": "ttd-1757783",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理高風險家庭關懷輔導處遇服務(社會局)",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960112",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960112",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960112\/20070227\/ttd-1757783"
+        },
+        {
+            "date": 20070227,
+            "filename": "aaa-1741758",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府市政大樓滅火器換藥案",
+                "companies": {
+                    "ids": [
+                        "12645836",
+                        "16548650",
+                        "3911666",
+                        "13184699"
+                    ],
+                    "names": [
+                        "凱能消防工程有限公司",
+                        "九如消防安全設備檢修股份有限公司",
+                        "一乙國際開發有限公司",
+                        "世盛消防設備檢修有限公司"
+                    ],
+                    "id_key": {
+                        "3911666": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "12645836": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "13184699": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "16548650": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "一乙國際開發有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ],
+                        "凱能消防工程有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "世盛消防設備檢修有限公司": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "九如消防安全設備檢修股份有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "3960202",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3960202",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3960202\/20070227\/aaa-1741758"
+        },
+        {
+            "date": 20070226,
+            "filename": "ttd-1761911",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理身心障礙者個案管理服務",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960223\/20070226\/ttd-1761911"
+        },
+        {
+            "date": 20070213,
+            "filename": "ttd-1740814",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府「2007文化觀光年效益評估」(計畫室)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960136",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960136",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960136\/20070213\/ttd-1740814"
+        },
+        {
+            "date": 20070213,
+            "filename": "ttd-1740818",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理高風險家庭關懷輔導處遇服務(社會局)",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960112",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960112",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960112\/20070213\/ttd-1740818"
+        },
+        {
+            "date": 20070212,
+            "filename": "ttd-1744081",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府市政大樓滅火器換藥案",
+                "category": "財物類342-消防、援救及安全設備",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "3960202",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3960202",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3960202\/20070212\/ttd-1744081"
+        },
+        {
+            "date": 20070205,
+            "filename": "ttd-1742504",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府市政大樓滅火器換藥案",
+                "category": "財物類342-消防、援救及安全設備",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "3960202",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3960202",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3960202\/20070205\/ttd-1742504"
+        },
+        {
+            "date": 20070205,
+            "filename": "ttd-1737242",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理高風險家庭關懷輔導處遇服務(社會局)",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960112",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960112",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960112\/20070205\/ttd-1737242"
+        },
+        {
+            "date": 20070205,
+            "filename": "aaa-1718342",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府委託辦理高風險家庭關懷輔導處遇服務(社會局)",
+                "companies": {
+                    "ids": [
+                        "06398533"
+                    ],
+                    "names": [
+                        "財團法人台灣兒童暨家庭扶助基金會台南市分事務所"
+                    ],
+                    "id_key": {
+                        "06398533": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "財團法人台灣兒童暨家庭扶助基金會台南市分事務所": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2960112",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960112",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960112\/20070205\/aaa-1718342"
+        },
+        {
+            "date": 20070202,
+            "filename": "ttd-1737240",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府「2007文化觀光年效益評估」(計畫室)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960136",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960136",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960136\/20070202\/ttd-1737240"
+        },
+        {
+            "date": 20070201,
+            "filename": "ttd-1763718",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府暨所屬機關志工(義工)意外事故保險",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960134",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960134",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960134\/20070201\/ttd-1763718"
+        },
+        {
+            "date": 20070201,
+            "filename": "aaa-1714805",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府「『發現新台南旅遊書』之五至之七」委外服務案(計畫室)",
+                "companies": {
+                    "ids": [
+                        "69925576",
+                        "28052274",
+                        "16986139"
+                    ],
+                    "names": [
+                        "飛鴻文化股份有限公司",
+                        "晴朗斑鳩設計有限公司",
+                        "芫峻印刷企業有限公司"
+                    ],
+                    "id_key": {
+                        "16986139": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "28052274": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "69925576": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "晴朗斑鳩設計有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ],
+                        "芫峻印刷企業有限公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "飛鴻文化股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951016",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951016",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951016\/20070201\/aaa-1714805"
+        },
+        {
+            "date": 20070131,
+            "filename": "aaa-1728639",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府委託辦理兒童及少年保護輔導教育服務(社會局)",
+                "companies": {
+                    "ids": [
+                        "06398533"
+                    ],
+                    "names": [
+                        "財團法人台灣兒童暨家庭扶助基金會台南市分事務所"
+                    ],
+                    "id_key": {
+                        "06398533": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "財團法人台灣兒童暨家庭扶助基金會台南市分事務所": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951243",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951243",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951243\/20070131\/aaa-1728639"
+        },
+        {
+            "date": 20070131,
+            "filename": "aaa-1728635",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府委託辦理兒童及少年保護家庭處遇服務(社會局)",
+                "companies": {
+                    "ids": [
+                        "06398533"
+                    ],
+                    "names": [
+                        "財團法人台灣兒童暨家庭扶助基金會台南市分事務所"
+                    ],
+                    "id_key": {
+                        "06398533": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "財團法人台灣兒童暨家庭扶助基金會台南市分事務所": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951242",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951242",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951242\/20070131\/aaa-1728635"
+        },
+        {
+            "date": 20070129,
+            "filename": "aaa-1726161",
+            "brief": {
+                "type": "決標公告",
+                "title": "『臺南市政府駐臺灣臺南地方法院家庭暴力事件服務處』方案",
+                "companies": {
+                    "ids": [
+                        "74804545"
+                    ],
+                    "names": [
+                        "台南市女性權益促進會"
+                    ],
+                    "id_key": {
+                        "74804545": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "台南市女性權益促進會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951240",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951240",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951240\/20070129\/aaa-1726161"
+        },
+        {
+            "date": 20070125,
+            "filename": "aaa-1727748",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府委託辦理居家服務(後續擴充採購)",
+                "companies": {
+                    "ids": [
+                        "97943759",
+                        "17033201",
+                        "69935498",
+                        "78673024"
+                    ],
+                    "names": [
+                        "社團法人台南市家庭關懷協會",
+                        "財團法人台南市私立吾愛吾家養護中心",
+                        "財團法人台南市基督教女青年會基金會",
+                        "財團法人基督教青年會社會福利慈善事業基金會"
+                    ],
+                    "id_key": {
+                        "17033201": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "69935498": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "78673024": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "97943759": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "社團法人台南市家庭關懷協會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商3:得標廠商"
+                        ],
+                        "財團法人台南市基督教女青年會基金會": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:得標廠商2:得標廠商"
+                        ],
+                        "財團法人台南市私立吾愛吾家養護中心": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:得標廠商4:得標廠商"
+                        ],
+                        "財團法人基督教青年會社會福利慈善事業基金會": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "0940901-2",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=0940901-2",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/0940901-2\/20070125\/aaa-1727748"
+        },
+        {
+            "date": 20070122,
+            "filename": "ttd-1738267",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府「『e代府城』城市刊物23至28期委外服務」案",
+                "category": "勞務類2T0-照相、繪製地圖、印刷及發行服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2951204",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951204",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951204\/20070122\/ttd-1738267"
+        },
+        {
+            "date": 20070122,
+            "filename": "aaa-1720077",
+            "brief": {
+                "type": "決標公告",
+                "title": "「臺南市政府委託經營臺南市婦女福利服務中心-單親婦女福利服務」後續擴充採購",
+                "companies": {
+                    "ids": [
+                        "56996491"
+                    ],
+                    "names": [
+                        "台南市婦女兒童安全保護協會"
+                    ],
+                    "id_key": {
+                        "56996491": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "台南市婦女兒童安全保護協會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2950213-1",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950213-1",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950213-1\/20070122\/aaa-1720077"
+        },
+        {
+            "date": 20070117,
+            "filename": "ttd-1729834",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理高風險家庭關懷輔導處遇服務(社會局)",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2960112",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2960112",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2960112\/20070117\/ttd-1729834"
+        },
+        {
+            "date": 20070105,
+            "filename": "ttd-1735259",
+            "brief": {
+                "type": "公開取得報價單或企劃書更正公告",
+                "title": "『臺南市政府駐臺灣臺南地方法院家庭暴力事件服務處』方案",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2951240",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951240",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951240\/20070105\/ttd-1735259"
+        },
+        {
+            "date": 20070104,
+            "filename": "ttd-1734163",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府「『發現新台南旅遊書』之五至之七」委外服務案(計畫室)",
+                "category": "財物類376-書、地圖及其他刊物",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2951016",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951016",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951016\/20070104\/ttd-1734163"
+        },
+        {
+            "date": 20070103,
+            "filename": "ttd-1735259",
+            "brief": {
+                "type": "公開取得報價單或企劃書更正公告",
+                "title": "『臺南市政府駐臺灣臺南地方法院家庭暴力事件服務處』方案",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2951240",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951240",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951240\/20070103\/ttd-1735259"
+        },
+        {
+            "date": 20070103,
+            "filename": "ttd-1727056",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理兒童及少年保護輔導教育服務(社會局)",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2951243",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951243",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951243\/20070103\/ttd-1727056"
+        },
+        {
+            "date": 20070103,
+            "filename": "ttd-1726454",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府委託辦理兒童及少年保護家庭處遇服務(社會局)",
+                "category": "勞務類2G0-社會服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2951242",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951242",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951242\/20070103\/ttd-1726454"
+        },
+        {
+            "date": 20070102,
+            "filename": "aaa-1706080",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府96年度退休人員紀念牌-後續擴充",
+                "companies": {
+                    "ids": [
+                        "68215318"
+                    ],
+                    "names": [
+                        "成大吉禮品社"
+                    ],
+                    "id_key": {
+                        "68215318": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "成大吉禮品社": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "3951218-1",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3951218-1",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3951218-1\/20070102\/aaa-1706080"
+        },
+        {
+            "date": 20061229,
+            "filename": "aaa-1705054",
+            "brief": {
+                "type": "決標公告",
+                "title": "「臺南市政府委託辦理身心障礙者臨時暨短期照顧服務」後續擴充採購",
+                "companies": {
+                    "ids": [
+                        "78673024"
+                    ],
+                    "names": [
+                        "財團法人台南市基督教青年會社會福利慈善事業基金會"
+                    ],
+                    "id_key": {
+                        "78673024": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "財團法人台南市基督教青年會社會福利慈善事業基金會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2950209-1",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950209-1",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950209-1\/20061229\/aaa-1705054"
+        },
+        {
+            "date": 20061228,
+            "filename": "aaa-1704478",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府95年度職業訓練服裝設計及製作實務班(勞工局)",
+                "companies": {
+                    "ids": [
+                        "69111500"
+                    ],
+                    "names": [
+                        "台南市私立光華女子高級中學"
+                    ],
+                    "id_key": {
+                        "69111500": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "台南市私立光華女子高級中學": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951138",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951138",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951138\/20061228\/aaa-1704478"
+        },
+        {
+            "date": 20061228,
+            "filename": "aaa-1706841",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府無障礙福利之家與沈有德、方懷正基金會契約及侵權損害賠償事件訴訟之委任律",
+                "companies": {
+                    "ids": [],
+                    "names": [
+                        "陶靜芳"
+                    ],
+                    "id_key": [],
+                    "name_key": {
+                        "陶靜芳": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951234",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951234",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951234\/20061228\/aaa-1706841"
+        },
+        {
+            "date": 20061228,
+            "filename": "aaa-1702857",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府(婦女聯合服務中心)新移民家庭服務中心修繕工程",
+                "companies": {
+                    "ids": [
+                        "70500746",
+                        "16020143"
+                    ],
+                    "names": [
+                        "得利營造有限公司",
+                        "泰緯營造有限公司"
+                    ],
+                    "id_key": {
+                        "16020143": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "70500746": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "得利營造有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "泰緯營造有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "1951212",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=1951212",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/1951212\/20061228\/aaa-1702857"
+        },
+        {
+            "date": 20061225,
+            "filename": "aaa-1711945",
+            "brief": {
+                "type": "更正決標公告",
+                "title": "「臺南市政府95年度餐飲類失業者職業訓練-中餐烹調丙級證照班」採購案",
+                "companies": {
+                    "ids": [
+                        "69111403"
+                    ],
+                    "names": [
+                        "臺南市私立南英高級商工職業學校"
+                    ],
+                    "id_key": {
+                        "69111403": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "臺南市私立南英高級商工職業學校": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951224",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951224",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951224\/20061225\/aaa-1711945"
+        },
+        {
+            "date": 20061225,
+            "filename": "aaa-1709509",
+            "brief": {
+                "type": "更正決標公告",
+                "title": "「臺南市政府95年度美容類失業者職業訓練-美容丙級證照班」採購案",
+                "companies": {
+                    "ids": [
+                        "99028281"
+                    ],
+                    "names": [
+                        "台灣省女子美容商業同業公會聯合會附設南區職業訓練中心"
+                    ],
+                    "id_key": {
+                        "99028281": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "台灣省女子美容商業同業公會聯合會附設南區職業訓練中心": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951223",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951223",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951223\/20061225\/aaa-1709509"
+        },
+        {
+            "date": 20061221,
+            "filename": "ttd-1695589",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府(婦女聯合服務中心)新移民家庭服務中心修繕工程",
+                "category": "工程類1M0-社會福利類工程",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1951212",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=1951212",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/1951212\/20061221\/ttd-1695589"
+        },
+        {
+            "date": 20061221,
+            "filename": "aaa-1709494",
+            "brief": {
+                "type": "決標公告",
+                "title": "「臺南市政府95年度服務類失業者職業訓練-餐旅服務班」採購案",
+                "companies": {
+                    "ids": [
+                        "06397464"
+                    ],
+                    "names": [
+                        "台南市觀光協會"
+                    ],
+                    "id_key": {
+                        "06397464": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "台南市觀光協會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2951222",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951222",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951222\/20061221\/aaa-1709494"
+        },
+        {
+            "date": 20061218,
+            "filename": "ttd-1695307",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府(婦女聯合服務中心)新移民家庭服務中心修繕工程",
+                "category": "工程類1M0-社會福利類工程",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1951212",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=1951212",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/1951212\/20061218\/ttd-1695307"
+        },
+        {
+            "date": 20061218,
+            "filename": "aaa-1708183",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府綠美化作業工程車",
+                "companies": {
+                    "ids": [
+                        "16459404",
+                        "80565893",
+                        "80303006",
+                        "04971288"
+                    ],
+                    "names": [
+                        "亨光汽車股份有限公司",
+                        "康橋貿易事業有限公司",
+                        "長源汽車股份有限公司台南分公司",
+                        "登永實業有限公司"
+                    ],
+                    "id_key": {
+                        "04971288": [
+                            "投標廠商:投標廠商4:廠商代碼"
+                        ],
+                        "16459404": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ],
+                        "80303006": [
+                            "投標廠商:投標廠商3:廠商代碼"
+                        ],
+                        "80565893": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "登永實業有限公司": [
+                            "投標廠商:投標廠商4:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "亨光汽車股份有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ],
+                        "康橋貿易事業有限公司": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商3:未得標廠商"
+                        ],
+                        "長源汽車股份有限公司台南分公司": [
+                            "投標廠商:投標廠商3:廠商名稱",
+                            "決標品項:第1品項:未得標廠商2:未得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "3951025",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3951025",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3951025\/20061218\/aaa-1708183"
+        },
+        {
+            "date": 20061213,
+            "filename": "ttd-1694243",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府95年度職業訓練服裝設計及製作實務班(勞工局)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2951138",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951138",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951138\/20061213\/ttd-1694243"
+        },
+        {
+            "date": 20061208,
+            "filename": "ttd-1686285",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府(婦女聯合服務中心)新移民家庭服務中心修繕工程",
+                "category": "工程類1M0-社會福利類工程",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "1951212",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=1951212",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/1951212\/20061208\/ttd-1686285"
+        },
+        {
+            "date": 20061204,
+            "filename": "ttd-1684802",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府95年度職業訓練服裝設計及製作實務班(勞工局)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2951138",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951138",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951138\/20061204\/ttd-1684802"
+        },
+        {
+            "date": 20061130,
+            "filename": "ttd-1686281",
+            "brief": {
+                "type": "公開招標公告",
+                "title": "臺南市政府綠美化作業工程車",
+                "category": "財物類323-地面上的車輛、汽車、拖車及腳踏車",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "3951025",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3951025",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3951025\/20061130\/ttd-1686281"
+        },
+        {
+            "date": 20061128,
+            "filename": "ttd-1698011",
+            "brief": {
+                "type": "限制性招標(經公開評選或公開徵求)公告",
+                "title": "臺南市政府「『發現新台南旅遊書』之五至之七」委外服務案(計畫室)",
+                "category": "財物類376-書、地圖及其他刊物",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2951016",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2951016",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2951016\/20061128\/ttd-1698011"
+        },
+        {
+            "date": 20061102,
+            "filename": "ttd-1681309",
+            "brief": {
+                "type": "公開招標更正公告",
+                "title": "臺南市政府綠美化作業工程車",
+                "category": "財物類323-地面上的車輛、汽車、拖車及腳踏車",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "3951025",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3951025",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3951025\/20061102\/ttd-1681309"
+        },
+        {
+            "date": 20061026,
+            "filename": "ttd-1681309",
+            "brief": {
+                "type": "公開招標更正公告",
+                "title": "臺南市政府綠美化作業工程車",
+                "category": "財物類323-地面上的車輛、汽車、拖車及腳踏車",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "3951025",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=3951025",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/3951025\/20061026\/ttd-1681309"
+        },
+        {
+            "date": 20061026,
+            "filename": "aaa-1665864",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府「2006台北國際旅展展攤佈置與活動設計執行採購案」(交通局)",
+                "companies": {
+                    "ids": [
+                        "12864091",
+                        "06397464"
+                    ],
+                    "names": [
+                        "飛瑞捷國際有限公司",
+                        "台南市觀光協會"
+                    ],
+                    "id_key": {
+                        "06397464": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "12864091": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "台南市觀光協會": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "飛瑞捷國際有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2950918",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950918",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950918\/20061026\/aaa-1665864"
+        },
+        {
+            "date": 20061002,
+            "filename": "ttd-1643255",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府「2006台北國際旅展展攤佈置與活動設計執行採購案」(交通局)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2950918",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950918",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950918\/20061002\/ttd-1643255"
+        },
+        {
+            "date": 20060927,
+            "filename": "aaa-1634238",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府95年度電腦資訊類失業者職業訓練(勞工局)",
+                "companies": {
+                    "ids": [
+                        "84566326"
+                    ],
+                    "names": [
+                        "德鍵企業有限公司附設職業訓練中心"
+                    ],
+                    "id_key": {
+                        "84566326": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "德鍵企業有限公司附設職業訓練中心": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2950428-1",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950428-1",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950428-1\/20060927\/aaa-1634238"
+        },
+        {
+            "date": 20060925,
+            "filename": "ttd-1629811",
+            "brief": {
+                "type": "公開取得報價單或企劃書更正公告",
+                "title": "臺南市政府「2006台北國際旅展展攤佈置與活動設計執行採購案」(交通局)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2950918",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950918",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950918\/20060925\/ttd-1629811"
+        },
+        {
+            "date": 20060922,
+            "filename": "ttd-1629811",
+            "brief": {
+                "type": "公開取得報價單或企劃書更正公告",
+                "title": "臺南市政府「2006台北國際旅展展攤佈置與活動設計執行採購案」(交通局)",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2950918",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950918",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950918\/20060922\/ttd-1629811"
+        },
+        {
+            "date": 20060918,
+            "filename": "aaa-1620449",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府委託辦理身心障礙者臨時暨短期照顧服務",
+                "companies": {
+                    "ids": [
+                        "78673024",
+                        "06476523"
+                    ],
+                    "names": [
+                        "財團法人台南市基督教青年會社會福利慈善事業基金會",
+                        "社團法人台南市智障者福利家長協進會"
+                    ],
+                    "id_key": {
+                        "06476523": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "78673024": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "社團法人台南市智障者福利家長協進會": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "財團法人台南市基督教青年會社會福利慈善事業基金會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2950209",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950209",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950209\/20060918\/aaa-1620449"
+        },
+        {
+            "date": 20060912,
+            "filename": "aaa-1618112",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府市政大樓外牆窗戶清洗",
+                "companies": {
+                    "ids": [
+                        "27840554",
+                        "19548021"
+                    ],
+                    "names": [
+                        "茂齊工程有限公司",
+                        "佳新清潔行"
+                    ],
+                    "id_key": {
+                        "19548021": [
+                            "投標廠商:投標廠商2:廠商代碼"
+                        ],
+                        "27840554": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "佳新清潔行": [
+                            "投標廠商:投標廠商2:廠商名稱",
+                            "決標品項:第1品項:未得標廠商1:未得標廠商"
+                        ],
+                        "茂齊工程有限公司": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2950816",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950816",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950816\/20060912\/aaa-1618112"
+        },
+        {
+            "date": 20060905,
+            "filename": "ttd-1618609",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府市政大樓外牆窗戶清洗",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2950816",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950816",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950816\/20060905\/ttd-1618609"
+        },
+        {
+            "date": 20060825,
+            "filename": "ttd-1613776",
+            "brief": {
+                "type": "公開取得報價單或企劃書公告",
+                "title": "臺南市政府市政大樓外牆窗戶清洗",
+                "category": "勞務類2R0-專業、行政及管理支援服務",
+                "companies": {
+                    "ids": [],
+                    "names": [],
+                    "id_key": [],
+                    "name_key": []
+                }
+            },
+            "job_number": "2950816",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950816",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950816\/20060825\/ttd-1613776"
+        },
+        {
+            "date": 20060811,
+            "filename": "aaa-1605542",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府95年度服務類失業者職業訓練(勞工局)",
+                "companies": {
+                    "ids": [
+                        "06397464"
+                    ],
+                    "names": [
+                        "台南市觀光協會"
+                    ],
+                    "id_key": {
+                        "06397464": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "台南市觀光協會": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2950430",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950430",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950430\/20060811\/aaa-1605542"
+        },
+        {
+            "date": 20060811,
+            "filename": "aaa-1604860",
+            "brief": {
+                "type": "決標公告",
+                "title": "臺南市政府95年度餐飲類失業者職業訓練(勞工局)",
+                "companies": {
+                    "ids": [
+                        "69111403"
+                    ],
+                    "names": [
+                        "台灣省台南市私立南英高級商工職業學校"
+                    ],
+                    "id_key": {
+                        "69111403": [
+                            "投標廠商:投標廠商1:廠商代碼"
+                        ]
+                    },
+                    "name_key": {
+                        "台灣省台南市私立南英高級商工職業學校": [
+                            "投標廠商:投標廠商1:廠商名稱",
+                            "決標品項:第1品項:得標廠商1:得標廠商"
+                        ]
+                    }
+                }
+            },
+            "job_number": "2950427",
+            "unit_id": "3.76.61",
+            "unit_name": "3.76.61",
+            "unit_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/listbyunit?unit_id=3.76.61",
+            "tender_api_url": "http:\/\/pcc.g0v.ronny.tw\/api\/tender?unit_id=3.76.61&job_number=2950427",
+            "unit_url": "\/index\/unit\/3.76.61",
+            "url": "\/index\/case\/3.76.61\/2950427\/20060811\/aaa-1604860"
+        }
+    ]
+}
