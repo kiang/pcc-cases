@@ -1,27 +1,19 @@
 <?php
-$baseUrl = 'https://pcc.g0v.ronny.tw/api/searchbytitle?query=%E8%87%BA%E5%8D%97%E5%B8%82%E6%94%BF%E5%BA%9C&page=';
-$units = [];
-for ($no = 1; $no <= 101; $no++) {
-    $pageFile = __DIR__ . '/pages/page_' . $no . '.json';
-    if (file_exists($pageFile)) {
-        $json = json_decode(file_get_contents($pageFile), true);
-    } else {
-        $json = json_decode(file_get_contents($baseUrl . $no), true);
-        file_put_contents($pageFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-    }
-    foreach ($json['records'] as $record) {
-        if (false !== strpos($record['unit_name'], '臺南市')) {
-            $units[$record['unit_name']] = $record['unit_id'];
-        }
-    }
+$unitFile = __DIR__ . '/unit/unit.json';
+if(!file_exists($unitFile)) {
+    file_put_contents($unitFile, file_get_contents('https://pcc.g0v.ronny.tw/api/unit'));
 }
+$units = json_decode(file_get_contents($unitFile), true);
 
 $oFh = fopen(__DIR__ . '/result.csv', 'w');
 fputcsv($oFh, ['年度', '單位', '案件', '廠商', '廠商設立日', '結標日', '設立到結標天數', '廠商資本額', '標案金額', '標案金額/資本額', '網址']);
 $count = 0;
 $pool = [];
 
-foreach ($units as $unitName => $unitId) {
+foreach ($units as $unitId => $unitName) {
+    if(substr($unitId, 0, 4) !== '3.95') {
+        continue;
+    }
     $recordFile = __DIR__ . '/unit/' . $unitName . '.json';
     if (!file_exists($recordFile)) {
         file_put_contents($recordFile, file_get_contents('https://pcc.g0v.ronny.tw/api/listbyunit?unit_id=' . $unitId));
@@ -44,8 +36,14 @@ foreach ($units as $unitName => $unitId) {
         if (!file_exists($caseFile)) {
             $record['tender_api_url'] = str_replace('unit=', 'unit_id=', $record['tender_api_url']);
             file_put_contents($caseFile, file_get_contents($record['tender_api_url']));
+            echo "{$unitName}:{$record['job_number']} done\n";
+            sleep(1);
         }
         $case = json_decode(file_get_contents($caseFile), true);
+        if(empty($case['records'])) {
+            unlink($caseFile);
+            continue;
+        }
         foreach ($case['records'] as $period) {
             if ('決標公告' === $period['brief']['type']) {
                 if (!isset($period['detail']['已公告資料:標案名稱'])) {
@@ -110,6 +108,10 @@ foreach ($units as $unitName => $unitId) {
                         }
                         if ($vendorTime > 0) {
                             $days = ($periodTime - $vendorTime) / 86400;
+                            $rate = 0;
+                            if($vendorAsset > 0) {
+                                $rate = round(intval($amount) / intval($vendorAsset), 2);
+                            }
                             fputcsv($oFh, [
                                 $y,
                                 $period['detail']['機關資料:機關名稱'],
@@ -120,7 +122,7 @@ foreach ($units as $unitName => $unitId) {
                                 $days,
                                 $vendorAsset,
                                 $amount,
-                                round(intval($amount) / intval($vendorAsset), 2),
+                                $rate,
                                 $period['detail']['url']
                             ]);
                         }
