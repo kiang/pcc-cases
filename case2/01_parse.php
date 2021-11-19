@@ -1,6 +1,6 @@
 <?php
 $unitFile = __DIR__ . '/unit/unit.json';
-if(!file_exists($unitFile)) {
+if (!file_exists($unitFile)) {
     file_put_contents($unitFile, file_get_contents('https://pcc.g0v.ronny.tw/api/unit'));
 }
 $units = json_decode(file_get_contents($unitFile), true);
@@ -11,7 +11,7 @@ $count = 0;
 $pool = [];
 
 foreach ($units as $unitId => $unitName) {
-    if(substr($unitId, 0, 4) !== '3.95') {
+    if (substr($unitId, 0, 4) !== '3.95') {
         continue;
     }
     $recordFile = __DIR__ . '/unit/' . $unitName . '.json';
@@ -23,7 +23,7 @@ foreach ($units as $unitId => $unitName) {
         if (substr($record['date'], 0, 4) < 2019) {
             continue;
         }
-        if(!isset($pool[$record['tender_api_url']])) {
+        if (!isset($pool[$record['tender_api_url']])) {
             $pool[$record['tender_api_url']] = true;
         } else {
             continue;
@@ -40,7 +40,7 @@ foreach ($units as $unitId => $unitName) {
             sleep(1);
         }
         $case = json_decode(file_get_contents($caseFile), true);
-        if(empty($case['records'])) {
+        if (empty($case['records'])) {
             unlink($caseFile);
             continue;
         }
@@ -75,6 +75,9 @@ foreach ($units as $unitId => $unitName) {
                         $vendors[$parts[1]][$parts[2]] = $v;
                     }
                 }
+                if(!isset($period['detail']['決標資料:總決標金額'])) {
+                    continue;
+                }
                 $amount = intval(preg_replace('/[^0-9]/', '', $period['detail']['決標資料:總決標金額']));
                 foreach ($vendors as $vendor) {
                     if (!empty($vendor['廠商代碼']) && $vendor['是否得標'] === '是') {
@@ -88,16 +91,25 @@ foreach ($units as $unitId => $unitName) {
                         }
                         $vendorJson = json_decode(file_get_contents($vendorFile), true);
                         $vendorTime = 0;
-                        if('40816629' === $vendor['廠商代碼']) {
-                            $vendorJson['data']['核准設立日期'] = [
-                                'year' => '2014',
-                                'month' => '12',
-                                'day' => '10',
-                            ];
+                        switch ($vendor['廠商代碼']) {
+                            case '40816629':
+                                $vendorJson['data']['核准設立日期'] = [
+                                    'year' => '2014',
+                                    'month' => '12',
+                                    'day' => '10',
+                                ];
+                                break;
+                            case '72480197':
+                                $vendorJson['data']['核准設立日期'] = [
+                                    'year' => '2017',
+                                    'month' => '09',
+                                    'day' => '26',
+                                ];
+                                break;
                         }
-                        if(isset($vendorJson['data']['資本總額(元)'])) {
+                        if (isset($vendorJson['data']['資本總額(元)'])) {
                             $vendorAsset = $vendorJson['data']['資本總額(元)'];
-                        } elseif(isset($vendorJson['data']['資本額(元)'])) {
+                        } elseif (isset($vendorJson['data']['資本額(元)'])) {
                             $vendorAsset = $vendorJson['data']['資本額(元)'];
                         }
                         $vendorAsset = str_replace(',', '', $vendorAsset);
@@ -109,7 +121,7 @@ foreach ($units as $unitId => $unitName) {
                         if ($vendorTime > 0) {
                             $days = ($periodTime - $vendorTime) / 86400;
                             $rate = 0;
-                            if($vendorAsset > 0) {
+                            if ($vendorAsset > 0) {
                                 $rate = round(intval($amount) / intval($vendorAsset), 2);
                             }
                             fputcsv($oFh, [
